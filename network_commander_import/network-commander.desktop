@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Network Commander
+Comment=Network Management & Diagnostics
+Exec=/home/devlopjake/Terminal/NetworkCommander/native_launch.sh
+Icon=/home/devlopjake/Terminal/NetworkCommander/frontend/public/vite.svg
+Terminal=false
+Type=Application
+Categories=Utility;Network;

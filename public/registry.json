@@ -1,0 +1,6173 @@
+{
+  "postcss.config.cjs": {
+    "name": "postcss.config.cjs",
+    "path": "postcss.config.cjs",
+    "type": "code",
+    "size": 105,
+    "coords": {
+      "x": 45,
+      "y": -48,
+      "z": 810
+    }
+  },
+  ".gitignore": {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "type": "code",
+    "size": 185,
+    "coords": {
+      "x": -81,
+      "y": 6,
+      "z": 762
+    }
+  },
+  "API_PERSISTENCE_SUMMARY.md": {
+    "name": "API_PERSISTENCE_SUMMARY.md",
+    "path": "API_PERSISTENCE_SUMMARY.md",
+    "type": "data",
+    "size": 788,
+    "coords": {
+      "x": 33,
+      "y": -9,
+      "z": 829
+    }
+  },
+  ".env": {
+    "name": ".env",
+    "path": ".env",
+    "type": "code",
+    "size": 103,
+    "coords": {
+      "x": -52,
+      "y": -34,
+      "z": 834
+    }
+  },
+  "eslint.config.js": {
+    "name": "eslint.config.js",
+    "path": "eslint.config.js",
+    "type": "logic",
+    "size": 875,
+    "coords": {
+      "x": -43,
+      "y": 116,
+      "z": 798
+    }
+  },
+  "temp_imports.txt": {
+    "name": "temp_imports.txt",
+    "path": "temp_imports.txt",
+    "type": "data",
+    "size": 17577,
+    "coords": {
+      "x": 131,
+      "y": -97,
+      "z": 796
+    }
+  },
+  "the_council_backup.py": {
+    "name": "the_council_backup.py",
+    "path": "the_council_backup.py",
+    "type": "logic",
+    "size": 2244,
+    "coords": {
+      "x": -110,
+      "y": -18,
+      "z": 746
+    }
+  },
+  "BLACKASCENT_ABORT_SUMMARY.md": {
+    "name": "BLACKASCENT_ABORT_SUMMARY.md",
+    "path": "BLACKASCENT_ABORT_SUMMARY.md",
+    "type": "data",
+    "size": 596,
+    "coords": {
+      "x": 53,
+      "y": 94,
+      "z": 743
+    }
+  },
+  "Deploy_node.sh": {
+    "name": "Deploy_node.sh",
+    "path": "Deploy_node.sh",
+    "type": "logic",
+    "size": 4491,
+    "coords": {
+      "x": 14,
+      "y": -185,
+      "z": 820
+    }
+  },
+  "TEAM_ACTIVATION_SUMMARY.md": {
+    "name": "TEAM_ACTIVATION_SUMMARY.md",
+    "path": "TEAM_ACTIVATION_SUMMARY.md",
+    "type": "data",
+    "size": 1376,
+    "coords": {
+      "x": -81,
+      "y": 140,
+      "z": 805
+    }
+  },
+  "OMEGA_SCRIPT_SUMMARY.md": {
+    "name": "OMEGA_SCRIPT_SUMMARY.md",
+    "path": "OMEGA_SCRIPT_SUMMARY.md",
+    "type": "data",
+    "size": 818,
+    "coords": {
+      "x": 115,
+      "y": -21,
+      "z": 776
+    }
+  },
+  "registry.json": {
+    "name": "registry.json",
+    "path": "registry.json",
+    "type": "data",
+    "size": 149,
+    "coords": {
+      "x": -138,
+      "y": -66,
+      "z": 762
+    }
+  },
+  "antigravity.py.save": {
+    "name": "antigravity.py.save",
+    "path": "antigravity.py.save",
+    "type": "code",
+    "size": 1868,
+    "coords": {
+      "x": -10,
+      "y": 135,
+      "z": 826
+    }
+  },
+  "README.md": {
+    "name": "README.md",
+    "path": "README.md",
+    "type": "data",
+    "size": 2531,
+    "coords": {
+      "x": 134,
+      "y": -162,
+      "z": 752
+    }
+  },
+  "api_server.log": {
+    "name": "api_server.log",
+    "path": "api_server.log",
+    "type": "code",
+    "size": 521,
+    "coords": {
+      "x": -178,
+      "y": 9,
+      "z": 786
+    }
+  },
+  "EmpireIDE_temp.jsx": {
+    "name": "EmpireIDE_temp.jsx",
+    "path": "EmpireIDE_temp.jsx",
+    "type": "logic",
+    "size": 16870,
+    "coords": {
+      "x": 130,
+      "y": 83,
+      "z": 785
+    }
+  },
+  "VERTEX_DIAGNOSTIC_SUMMARY.md": {
+    "name": "VERTEX_DIAGNOSTIC_SUMMARY.md",
+    "path": "VERTEX_DIAGNOSTIC_SUMMARY.md",
+    "type": "data",
+    "size": 730,
+    "coords": {
+      "x": -113,
+      "y": -161,
+      "z": 774
+    }
+  },
+  "antigravity.py": {
+    "name": "antigravity.py",
+    "path": "antigravity.py",
+    "type": "logic",
+    "size": 2671,
+    "coords": {
+      "x": -103,
+      "y": 244,
+      "z": 820
+    }
+  },
+  "MIRROR_LEGACY.md": {
+    "name": "MIRROR_LEGACY.md",
+    "path": "MIRROR_LEGACY.md",
+    "type": "data",
+    "size": 999,
+    "coords": {
+      "x": 207,
+      "y": -131,
+      "z": 768
+    }
+  },
+  "ignite.sh": {
+    "name": "ignite.sh",
+    "path": "ignite.sh",
+    "type": "logic",
+    "size": 770,
+    "coords": {
+      "x": -212,
+      "y": -57,
+      "z": 826
+    }
+  },
+  "OMEGA_VELOCITY_SUMMARY.md": {
+    "name": "OMEGA_VELOCITY_SUMMARY.md",
+    "path": "OMEGA_VELOCITY_SUMMARY.md",
+    "type": "data",
+    "size": 766,
+    "coords": {
+      "x": 89,
+      "y": 247,
+      "z": 759
+    }
+  },
+  "CODEBASE_AUDIT_PROMPT.md": {
+    "name": "CODEBASE_AUDIT_PROMPT.md",
+    "path": "CODEBASE_AUDIT_PROMPT.md",
+    "type": "data",
+    "size": 2011,
+    "coords": {
+      "x": 24,
+      "y": -244,
+      "z": 729
+    }
+  },
+  "file_server.log": {
+    "name": "file_server.log",
+    "path": "file_server.log",
+    "type": "code",
+    "size": 873,
+    "coords": {
+      "x": -243,
+      "y": 169,
+      "z": 816
+    }
+  },
+  "HARD_PULSE_LOCK.md": {
+    "name": "HARD_PULSE_LOCK.md",
+    "path": "HARD_PULSE_LOCK.md",
+    "type": "data",
+    "size": 373,
+    "coords": {
+      "x": 260,
+      "y": 10,
+      "z": 730
+    }
+  },
+  "scan_empire.py": {
+    "name": "scan_empire.py",
+    "path": "scan_empire.py",
+    "type": "logic",
+    "size": 2884,
+    "coords": {
+      "x": -195,
+      "y": -219,
+      "z": 797
+    }
+  },
+  "2424.txt": {
+    "name": "2424.txt",
+    "path": "2424.txt",
+    "type": "data",
+    "size": 15,
+    "coords": {
+      "x": -52,
+      "y": 300,
+      "z": 785
+    }
+  },
+  "ENTER_KEY_SUPPORT_SUMMARY.md": {
+    "name": "ENTER_KEY_SUPPORT_SUMMARY.md",
+    "path": "ENTER_KEY_SUPPORT_SUMMARY.md",
+    "type": "data",
+    "size": 899,
+    "coords": {
+      "x": 214,
+      "y": -210,
+      "z": 721
+    }
+  },
+  "package.json": {
+    "name": "package.json",
+    "path": "package.json",
+    "type": "data",
+    "size": 2858,
+    "coords": {
+      "x": -304,
+      "y": -43,
+      "z": 743
+    }
+  },
+  "codex_core.py": {
+    "name": "codex_core.py",
+    "path": "codex_core.py",
+    "type": "logic",
+    "size": 2054,
+    "coords": {
+      "x": 200,
+      "y": 137,
+      "z": 778
+    }
+  },
+  "package-lock.json": {
+    "name": "package-lock.json",
+    "path": "package-lock.json",
+    "type": "data",
+    "size": 386540,
+    "coords": {
+      "x": -59,
+      "y": -231,
+      "z": 808
+    }
+  },
+  "api_integration \u2013 Application Integra\u2026 \u2013 Coinbot \u2013 Google Cloud console.html": {
+    "name": "api_integration \u2013 Application Integra\u2026 \u2013 Coinbot \u2013 Google Cloud console.html",
+    "path": "api_integration \u2013 Application Integra\u2026 \u2013 Coinbot \u2013 Google Cloud console.html",
+    "type": "code",
+    "size": 1654726,
+    "coords": {
+      "x": -177,
+      "y": 219,
+      "z": 808
+    }
+  },
+  "VERTEX_CHRONICLES.md": {
+    "name": "VERTEX_CHRONICLES.md",
+    "path": "VERTEX_CHRONICLES.md",
+    "type": "data",
+    "size": 6131,
+    "coords": {
+      "x": 294,
+      "y": -9,
+      "z": 728
+    }
+  },
+  "grok_imperium.py": {
+    "name": "grok_imperium.py",
+    "path": "grok_imperium.py",
+    "type": "logic",
+    "size": 4861,
+    "coords": {
+      "x": -232,
+      "y": -110,
+      "z": 780
+    }
+  },
+  "electron.js": {
+    "name": "electron.js",
+    "path": "electron.js",
+    "type": "logic",
+    "size": 12860,
+    "coords": {
+      "x": 74,
+      "y": 278,
+      "z": 720
+    }
+  },
+  "grok_chat.py": {
+    "name": "grok_chat.py",
+    "path": "grok_chat.py",
+    "type": "logic",
+    "size": 873,
+    "coords": {
+      "x": 117,
+      "y": -283,
+      "z": 801
+    }
+  },
+  "ANTIGRAVITY_INSTRUCTIONS.md": {
+    "name": "ANTIGRAVITY_INSTRUCTIONS.md",
+    "path": "ANTIGRAVITY_INSTRUCTIONS.md",
+    "type": "data",
+    "size": 2100,
+    "coords": {
+      "x": -270,
+      "y": 158,
+      "z": 790
+    }
+  },
+  "empire_engine.py": {
+    "name": "empire_engine.py",
+    "path": "empire_engine.py",
+    "type": "logic",
+    "size": 4015,
+    "coords": {
+      "x": 297,
+      "y": 66,
+      "z": 780
+    }
+  },
+  "api_server.py": {
+    "name": "api_server.py",
+    "path": "api_server.py",
+    "type": "logic",
+    "size": 8361,
+    "coords": {
+      "x": -124,
+      "y": -310,
+      "z": 749
+    }
+  },
+  "GEMINI_LEGACY.md": {
+    "name": "GEMINI_LEGACY.md",
+    "path": "GEMINI_LEGACY.md",
+    "type": "data",
+    "size": 688,
+    "coords": {
+      "x": -126,
+      "y": 315,
+      "z": 770
+    }
+  },
+  "vite.config.js": {
+    "name": "vite.config.js",
+    "path": "vite.config.js",
+    "type": "logic",
+    "size": 502,
+    "coords": {
+      "x": 311,
+      "y": -190,
+      "z": 801
+    }
+  },
+  "tablet_agent.py": {
+    "name": "tablet_agent.py",
+    "path": "tablet_agent.py",
+    "type": "logic",
+    "size": 1915,
+    "coords": {
+      "x": -274,
+      "y": -64,
+      "z": 782
+    }
+  },
+  "TABLET_SETUP_GUIDE.md": {
+    "name": "TABLET_SETUP_GUIDE.md",
+    "path": "TABLET_SETUP_GUIDE.md",
+    "type": "data",
+    "size": 1526,
+    "coords": {
+      "x": 185,
+      "y": 296,
+      "z": 731
+    }
+  },
+  "launch_script.txt": {
+    "name": "launch_script.txt",
+    "path": "launch_script.txt",
+    "type": "data",
+    "size": 421,
+    "coords": {
+      "x": -10,
+      "y": -336,
+      "z": 722
+    }
+  },
+  "FIX_SUMMARY.md": {
+    "name": "FIX_SUMMARY.md",
+    "path": "FIX_SUMMARY.md",
+    "type": "data",
+    "size": 2295,
+    "coords": {
+      "x": -274,
+      "y": 232,
+      "z": 700
+    }
+  },
+  "save_my_work.sh": {
+    "name": "save_my_work.sh",
+    "path": "save_my_work.sh",
+    "type": "logic",
+    "size": 2389,
+    "coords": {
+      "x": 311,
+      "y": -31,
+      "z": 719
+    }
+  },
+  "INTRO_UPDATE_SUMMARY.md": {
+    "name": "INTRO_UPDATE_SUMMARY.md",
+    "path": "INTRO_UPDATE_SUMMARY.md",
+    "type": "data",
+    "size": 1310,
+    "coords": {
+      "x": -218,
+      "y": -195,
+      "z": 737
+    }
+  },
+  "index.html": {
+    "name": "index.html",
+    "path": "index.html",
+    "type": "code",
+    "size": 2519,
+    "coords": {
+      "x": 49,
+      "y": 378,
+      "z": 758
+    }
+  },
+  "public/Deploy_node.sh": {
+    "name": "Deploy_node.sh",
+    "path": "public/Deploy_node.sh",
+    "type": "logic",
+    "size": 4491,
+    "coords": {
+      "x": 206,
+      "y": -256,
+      "z": 739
+    }
+  },
+  "public/registry.json": {
+    "name": "registry.json",
+    "path": "public/registry.json",
+    "type": "data",
+    "size": 149,
+    "coords": {
+      "x": -355,
+      "y": 104,
+      "z": 772
+    }
+  },
+  "squares/square_variation_4.tsx": {
+    "name": "square_variation_4.tsx",
+    "path": "squares/square_variation_4.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 334,
+      "y": 185,
+      "z": 707
+    }
+  },
+  "squares/square_variation_5.tsx": {
+    "name": "square_variation_5.tsx",
+    "path": "squares/square_variation_5.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -68,
+      "y": -341,
+      "z": 735
+    }
+  },
+  "squares/square_variation_2.tsx": {
+    "name": "square_variation_2.tsx",
+    "path": "squares/square_variation_2.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -176,
+      "y": 305,
+      "z": 758
+    }
+  },
+  "squares/square_variation_8.tsx": {
+    "name": "square_variation_8.tsx",
+    "path": "squares/square_variation_8.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 311,
+      "y": -105,
+      "z": 722
+    }
+  },
+  "squares/square_variation_10.tsx": {
+    "name": "square_variation_10.tsx",
+    "path": "squares/square_variation_10.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -363,
+      "y": -187,
+      "z": 750
+    }
+  },
+  "squares/square_variation_1.tsx": {
+    "name": "square_variation_1.tsx",
+    "path": "squares/square_variation_1.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 142,
+      "y": 374,
+      "z": 715
+    }
+  },
+  "squares/square_variation_7.tsx": {
+    "name": "square_variation_7.tsx",
+    "path": "squares/square_variation_7.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 129,
+      "y": -321,
+      "z": 727
+    }
+  },
+  "squares/square_variation_9.tsx": {
+    "name": "square_variation_9.tsx",
+    "path": "squares/square_variation_9.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -368,
+      "y": 197,
+      "z": 699
+    }
+  },
+  "squares/square_variation_6.tsx": {
+    "name": "square_variation_6.tsx",
+    "path": "squares/square_variation_6.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 379,
+      "y": 57,
+      "z": 704
+    }
+  },
+  "squares/square_variation_3.tsx": {
+    "name": "square_variation_3.tsx",
+    "path": "squares/square_variation_3.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -230,
+      "y": -361,
+      "z": 718
+    }
+  },
+  "render_sphere_standalone_import/sphere.log": {
+    "name": "sphere.log",
+    "path": "render_sphere_standalone_import/sphere.log",
+    "type": "code",
+    "size": 0,
+    "coords": {
+      "x": -27,
+      "y": 405,
+      "z": 700
+    }
+  },
+  "render_sphere_standalone_import/package.json": {
+    "name": "package.json",
+    "path": "render_sphere_standalone_import/package.json",
+    "type": "data",
+    "size": 980,
+    "coords": {
+      "x": 331,
+      "y": -220,
+      "z": 728
+    }
+  },
+  "render_sphere_standalone_import/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "render_sphere_standalone_import/package-lock.json",
+    "type": "data",
+    "size": 365137,
+    "coords": {
+      "x": -435,
+      "y": -66,
+      "z": 762
+    }
+  },
+  "render_sphere_standalone_import/vite.config.js": {
+    "name": "vite.config.js",
+    "path": "render_sphere_standalone_import/vite.config.js",
+    "type": "logic",
+    "size": 271,
+    "coords": {
+      "x": 299,
+      "y": 323,
+      "z": 721
+    }
+  },
+  "render_sphere_standalone_import/index.html": {
+    "name": "index.html",
+    "path": "render_sphere_standalone_import/index.html",
+    "type": "code",
+    "size": 2428,
+    "coords": {
+      "x": -15,
+      "y": -358,
+      "z": 690
+    }
+  },
+  "render_sphere_standalone_import/public/theme_loading.mp4": {
+    "name": "theme_loading.mp4",
+    "path": "render_sphere_standalone_import/public/theme_loading.mp4",
+    "type": "code",
+    "size": 3063099,
+    "coords": {
+      "x": -255,
+      "y": 270,
+      "z": 694
+    }
+  },
+  "render_sphere_standalone_import/public/shape_dna.json": {
+    "name": "shape_dna.json",
+    "path": "render_sphere_standalone_import/public/shape_dna.json",
+    "type": "data",
+    "size": 318,
+    "coords": {
+      "x": 417,
+      "y": -69,
+      "z": 709
+    }
+  },
+  "render_sphere_standalone_import/src/main.jsx": {
+    "name": "main.jsx",
+    "path": "render_sphere_standalone_import/src/main.jsx",
+    "type": "logic",
+    "size": 1061,
+    "coords": {
+      "x": -370,
+      "y": -209,
+      "z": 758
+    }
+  },
+  "render_sphere_standalone_import/src/config/api.js": {
+    "name": "api.js",
+    "path": "render_sphere_standalone_import/src/config/api.js",
+    "type": "logic",
+    "size": 466,
+    "coords": {
+      "x": 37,
+      "y": 368,
+      "z": 679
+    }
+  },
+  "render_sphere_standalone_import/src/system/State.js": {
+    "name": "State.js",
+    "path": "render_sphere_standalone_import/src/system/State.js",
+    "type": "logic",
+    "size": 2602,
+    "coords": {
+      "x": 262,
+      "y": -332,
+      "z": 750
+    }
+  },
+  "render_sphere_standalone_import/src/components/EmpireIDE.jsx": {
+    "name": "EmpireIDE.jsx",
+    "path": "render_sphere_standalone_import/src/components/EmpireIDE.jsx",
+    "type": "logic",
+    "size": 18005,
+    "coords": {
+      "x": -436,
+      "y": 135,
+      "z": 764
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/MirrorReflectionSquare.jsx": {
+    "name": "MirrorReflectionSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/MirrorReflectionSquare.jsx",
+    "type": "logic",
+    "size": 2448,
+    "coords": {
+      "x": 425,
+      "y": 175,
+      "z": 703
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BacktestRecentTrades.jsx": {
+    "name": "BacktestRecentTrades.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BacktestRecentTrades.jsx",
+    "type": "logic",
+    "size": 1923,
+    "coords": {
+      "x": -208,
+      "y": -394,
+      "z": 728
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BotControl.jsx": {
+    "name": "BotControl.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BotControl.jsx",
+    "type": "logic",
+    "size": 1600,
+    "coords": {
+      "x": -156,
+      "y": 418,
+      "z": 719
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/StrategySwitcherSquare.jsx": {
+    "name": "StrategySwitcherSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/StrategySwitcherSquare.jsx",
+    "type": "logic",
+    "size": 4595,
+    "coords": {
+      "x": 422,
+      "y": -244,
+      "z": 695
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/ActiveBots.jsx": {
+    "name": "ActiveBots.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/ActiveBots.jsx",
+    "type": "logic",
+    "size": 3514,
+    "coords": {
+      "x": -448,
+      "y": -72,
+      "z": 712
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/StrategyParameters.jsx": {
+    "name": "StrategyParameters.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/StrategyParameters.jsx",
+    "type": "logic",
+    "size": 4788,
+    "coords": {
+      "x": 237,
+      "y": 404,
+      "z": 691
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/OrderEntry.jsx": {
+    "name": "OrderEntry.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/OrderEntry.jsx",
+    "type": "logic",
+    "size": 6358,
+    "coords": {
+      "x": 95,
+      "y": -400,
+      "z": 733
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveChart.jsx": {
+    "name": "LiveChart.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveChart.jsx",
+    "type": "logic",
+    "size": 5198,
+    "coords": {
+      "x": -340,
+      "y": 256,
+      "z": 757
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BacktestPerformance.jsx": {
+    "name": "BacktestPerformance.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BacktestPerformance.jsx",
+    "type": "logic",
+    "size": 2288,
+    "coords": {
+      "x": 434,
+      "y": 11,
+      "z": 734
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BacktestAllocation.jsx": {
+    "name": "BacktestAllocation.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BacktestAllocation.jsx",
+    "type": "logic",
+    "size": 1319,
+    "coords": {
+      "x": -284,
+      "y": -306,
+      "z": 663
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/FantasyFinanceBox.jsx": {
+    "name": "FantasyFinanceBox.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/FantasyFinanceBox.jsx",
+    "type": "logic",
+    "size": 22996,
+    "coords": {
+      "x": -27,
+      "y": 464,
+      "z": 706
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/NavBar.jsx": {
+    "name": "NavBar.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/NavBar.jsx",
+    "type": "logic",
+    "size": 1975,
+    "coords": {
+      "x": 358,
+      "y": -290,
+      "z": 667
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/README.md": {
+    "name": "README.md",
+    "path": "render_sphere_standalone_import/src/components/organisms/README.md",
+    "type": "data",
+    "size": 875,
+    "coords": {
+      "x": -446,
+      "y": 67,
+      "z": 670
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LeverageHeatSquare.jsx": {
+    "name": "LeverageHeatSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LeverageHeatSquare.jsx",
+    "type": "logic",
+    "size": 6065,
+    "coords": {
+      "x": 374,
+      "y": 334,
+      "z": 730
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BotUptimeSquare.jsx": {
+    "name": "BotUptimeSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BotUptimeSquare.jsx",
+    "type": "logic",
+    "size": 4798,
+    "coords": {
+      "x": -69,
+      "y": -499,
+      "z": 745
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/WinRateByHourSquare.jsx": {
+    "name": "WinRateByHourSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/WinRateByHourSquare.jsx",
+    "type": "logic",
+    "size": 4899,
+    "coords": {
+      "x": -254,
+      "y": 409,
+      "z": 727
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/RealTimePnL.jsx": {
+    "name": "RealTimePnL.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/RealTimePnL.jsx",
+    "type": "logic",
+    "size": 4737,
+    "coords": {
+      "x": 425,
+      "y": -129,
+      "z": 702
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/TradeHistory.jsx": {
+    "name": "TradeHistory.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/TradeHistory.jsx",
+    "type": "logic",
+    "size": 4981,
+    "coords": {
+      "x": -426,
+      "y": -245,
+      "z": 682
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BacktestStrategyParameters.jsx": {
+    "name": "BacktestStrategyParameters.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BacktestStrategyParameters.jsx",
+    "type": "logic",
+    "size": 5711,
+    "coords": {
+      "x": 188,
+      "y": 474,
+      "z": 707
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/SeasonalitySquare.jsx": {
+    "name": "SeasonalitySquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/SeasonalitySquare.jsx",
+    "type": "logic",
+    "size": 3009,
+    "coords": {
+      "x": 182,
+      "y": -413,
+      "z": 675
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/RSIThresholdSlider.jsx": {
+    "name": "RSIThresholdSlider.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/RSIThresholdSlider.jsx",
+    "type": "logic",
+    "size": 940,
+    "coords": {
+      "x": -430,
+      "y": 237,
+      "z": 651
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/DataStream.jsx": {
+    "name": "DataStream.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/DataStream.jsx",
+    "type": "logic",
+    "size": 3872,
+    "coords": {
+      "x": 430,
+      "y": 173,
+      "z": 704
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/Gemini_Strategies.jsx": {
+    "name": "Gemini_Strategies.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/Gemini_Strategies.jsx",
+    "type": "logic",
+    "size": 5286,
+    "coords": {
+      "x": -232,
+      "y": -475,
+      "z": 679
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/BacktestKeyMetrics.jsx": {
+    "name": "BacktestKeyMetrics.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/BacktestKeyMetrics.jsx",
+    "type": "logic",
+    "size": 1421,
+    "coords": {
+      "x": -150,
+      "y": 442,
+      "z": 660
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/WARNING_LEGO_ZONE.md": {
+    "name": "WARNING_LEGO_ZONE.md",
+    "path": "render_sphere_standalone_import/src/components/organisms/WARNING_LEGO_ZONE.md",
+    "type": "data",
+    "size": 435,
+    "coords": {
+      "x": 362,
+      "y": -247,
+      "z": 640
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/EmpireBox.jsx": {
+    "name": "EmpireBox.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/EmpireBox.jsx",
+    "type": "logic",
+    "size": 3983,
+    "coords": {
+      "x": -511,
+      "y": -80,
+      "z": 679
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/GenericTile.jsx": {
+    "name": "GenericTile.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/GenericTile.jsx",
+    "type": "logic",
+    "size": 365,
+    "coords": {
+      "x": 296,
+      "y": 429,
+      "z": 675
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/TaxLotCalculatorSquare.jsx": {
+    "name": "TaxLotCalculatorSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/TaxLotCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 9491,
+    "coords": {
+      "x": 1,
+      "y": -515,
+      "z": 651
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/GrokTerminal.jsx": {
+    "name": "GrokTerminal.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/GrokTerminal.jsx",
+    "type": "logic",
+    "size": 9936,
+    "coords": {
+      "x": -341,
+      "y": 312,
+      "z": 654
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/KillSwitchSquare.jsx": {
+    "name": "KillSwitchSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/KillSwitchSquare.jsx",
+    "type": "logic",
+    "size": 2670,
+    "coords": {
+      "x": 478,
+      "y": 22,
+      "z": 687
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/ProfitCalculatorSquare.jsx": {
+    "name": "ProfitCalculatorSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/ProfitCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 7926,
+    "coords": {
+      "x": -430,
+      "y": -345,
+      "z": 667
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/DrawdownChartSquare.jsx": {
+    "name": "DrawdownChartSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/DrawdownChartSquare.jsx",
+    "type": "logic",
+    "size": 2838,
+    "coords": {
+      "x": 110,
+      "y": 527,
+      "z": 695
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/PaperVsLivePnLSquare.jsx": {
+    "name": "PaperVsLivePnLSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/PaperVsLivePnLSquare.jsx",
+    "type": "logic",
+    "size": 4149,
+    "coords": {
+      "x": 348,
+      "y": -407,
+      "z": 679
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/StrategyLab.jsx": {
+    "name": "StrategyLab.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/StrategyLab.jsx",
+    "type": "logic",
+    "size": 17384,
+    "coords": {
+      "x": -484,
+      "y": 79,
+      "z": 707
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LegionGrid.jsx": {
+    "name": "LegionGrid.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LegionGrid.jsx",
+    "type": "logic",
+    "size": 15675,
+    "coords": {
+      "x": 434,
+      "y": 227,
+      "z": 687
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/Header.jsx": {
+    "name": "Header.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/Header.jsx",
+    "type": "logic",
+    "size": 193,
+    "coords": {
+      "x": -197,
+      "y": -495,
+      "z": 656
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/TradeEntry.jsx": {
+    "name": "TradeEntry.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/TradeEntry.jsx",
+    "type": "logic",
+    "size": 1692,
+    "coords": {
+      "x": -253,
+      "y": 440,
+      "z": 643
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/ServerStatus.jsx": {
+    "name": "ServerStatus.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/ServerStatus.jsx",
+    "type": "logic",
+    "size": 5618,
+    "coords": {
+      "x": 506,
+      "y": -231,
+      "z": 710
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/Grid2000.jsx": {
+    "name": "Grid2000.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/Grid2000.jsx",
+    "type": "logic",
+    "size": 1618,
+    "coords": {
+      "x": -483,
+      "y": -183,
+      "z": 694
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/MarketSentinel.jsx": {
+    "name": "MarketSentinel.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/MarketSentinel.jsx",
+    "type": "logic",
+    "size": 5544,
+    "coords": {
+      "x": 262,
+      "y": 455,
+      "z": 705
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/Swarm/BotSwarmControl.jsx": {
+    "name": "BotSwarmControl.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/Swarm/BotSwarmControl.jsx",
+    "type": "logic",
+    "size": 4997,
+    "coords": {
+      "x": 115,
+      "y": -531,
+      "z": 681
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/Swarm/CommandCenter.jsx": {
+    "name": "CommandCenter.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/Swarm/CommandCenter.jsx",
+    "type": "logic",
+    "size": 2554,
+    "coords": {
+      "x": -478,
+      "y": 266,
+      "z": 630
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/atoms/MarketAtoms.jsx": {
+    "name": "MarketAtoms.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/atoms/MarketAtoms.jsx",
+    "type": "logic",
+    "size": 4486,
+    "coords": {
+      "x": 504,
+      "y": 135,
+      "z": 625
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/wired/LiveDecisionBox.jsx": {
+    "name": "LiveDecisionBox.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/wired/LiveDecisionBox.jsx",
+    "type": "logic",
+    "size": 3902,
+    "coords": {
+      "x": -278,
+      "y": -388,
+      "z": 628
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/wired/DbStatsBox.jsx": {
+    "name": "DbStatsBox.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/wired/DbStatsBox.jsx",
+    "type": "logic",
+    "size": 1500,
+    "coords": {
+      "x": -68,
+      "y": 586,
+      "z": 701
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx": {
+    "name": "OrderFlowImbalanceSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx",
+    "type": "logic",
+    "size": 4260,
+    "coords": {
+      "x": 367,
+      "y": -361,
+      "z": 618
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/CvdSquare.jsx": {
+    "name": "CvdSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/CvdSquare.jsx",
+    "type": "logic",
+    "size": 3108,
+    "coords": {
+      "x": -516,
+      "y": -4,
+      "z": 666
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx": {
+    "name": "MoonBagTrackerSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx",
+    "type": "logic",
+    "size": 2402,
+    "coords": {
+      "x": 442,
+      "y": 326,
+      "z": 625
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/OcoManagerSquare.jsx": {
+    "name": "OcoManagerSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/OcoManagerSquare.jsx",
+    "type": "logic",
+    "size": 3287,
+    "coords": {
+      "x": -47,
+      "y": -586,
+      "z": 680
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/OrderBookPressureSquare.jsx": {
+    "name": "OrderBookPressureSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/OrderBookPressureSquare.jsx",
+    "type": "logic",
+    "size": 3553,
+    "coords": {
+      "x": -311,
+      "y": 463,
+      "z": 683
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/WhaleAlertSquare.jsx": {
+    "name": "WhaleAlertSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/WhaleAlertSquare.jsx",
+    "type": "logic",
+    "size": 3090,
+    "coords": {
+      "x": 531,
+      "y": -95,
+      "z": 640
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/StrategyContributionSquare.jsx": {
+    "name": "StrategyContributionSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/StrategyContributionSquare.jsx",
+    "type": "logic",
+    "size": 2705,
+    "coords": {
+      "x": -460,
+      "y": -336,
+      "z": 701
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx": {
+    "name": "GridBotVisualizerSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx",
+    "type": "logic",
+    "size": 4829,
+    "coords": {
+      "x": 165,
+      "y": 561,
+      "z": 654
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/DeltaExposureSquare.jsx": {
+    "name": "DeltaExposureSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/DeltaExposureSquare.jsx",
+    "type": "logic",
+    "size": 2377,
+    "coords": {
+      "x": 240,
+      "y": -471,
+      "z": 685
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/LiquidationHeatmap.jsx": {
+    "name": "LiquidationHeatmap.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/LiquidationHeatmap.jsx",
+    "type": "logic",
+    "size": 2098,
+    "coords": {
+      "x": -524,
+      "y": 235,
+      "z": 609
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/VwapDeviationSquare.jsx": {
+    "name": "VwapDeviationSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/VwapDeviationSquare.jsx",
+    "type": "logic",
+    "size": 2865,
+    "coords": {
+      "x": 521,
+      "y": 212,
+      "z": 617
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/GasFeeTracker.jsx": {
+    "name": "GasFeeTracker.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/GasFeeTracker.jsx",
+    "type": "logic",
+    "size": 1250,
+    "coords": {
+      "x": -203,
+      "y": -517,
+      "z": 639
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx": {
+    "name": "AvgHoldTimeSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx",
+    "type": "logic",
+    "size": 1406,
+    "coords": {
+      "x": -155,
+      "y": 587,
+      "z": 658
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx": {
+    "name": "FundingRateTrackerSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx",
+    "type": "logic",
+    "size": 3728,
+    "coords": {
+      "x": 544,
+      "y": -257,
+      "z": 638
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx": {
+    "name": "ConsecutiveCandleSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx",
+    "type": "logic",
+    "size": 2394,
+    "coords": {
+      "x": -611,
+      "y": -148,
+      "z": 672
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/OrderBookDepthSquare.jsx": {
+    "name": "OrderBookDepthSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/OrderBookDepthSquare.jsx",
+    "type": "logic",
+    "size": 3858,
+    "coords": {
+      "x": 319,
+      "y": 484,
+      "z": 640
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx": {
+    "name": "CorrelationMatrixSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx",
+    "type": "logic",
+    "size": 3406,
+    "coords": {
+      "x": 89,
+      "y": -566,
+      "z": 590
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/PortfolioRebalance.jsx": {
+    "name": "PortfolioRebalance.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/PortfolioRebalance.jsx",
+    "type": "logic",
+    "size": 1781,
+    "coords": {
+      "x": -474,
+      "y": 385,
+      "z": 592
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/SentimentStream.jsx": {
+    "name": "SentimentStream.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/SentimentStream.jsx",
+    "type": "logic",
+    "size": 1929,
+    "coords": {
+      "x": 591,
+      "y": 42,
+      "z": 676
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/OneClickDeploy.jsx": {
+    "name": "OneClickDeploy.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/OneClickDeploy.jsx",
+    "type": "logic",
+    "size": 1921,
+    "coords": {
+      "x": -370,
+      "y": -399,
+      "z": 676
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/LeaderboardLive.jsx": {
+    "name": "LeaderboardLive.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/LeaderboardLive.jsx",
+    "type": "logic",
+    "size": 2173,
+    "coords": {
+      "x": -6,
+      "y": 551,
+      "z": 599
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx": {
+    "name": "RealTimeOrderFlowSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx",
+    "type": "logic",
+    "size": 3211,
+    "coords": {
+      "x": 410,
+      "y": -477,
+      "z": 611
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/FomoMeterSquare.jsx": {
+    "name": "FomoMeterSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/FomoMeterSquare.jsx",
+    "type": "logic",
+    "size": 3543,
+    "coords": {
+      "x": -587,
+      "y": 82,
+      "z": 606
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx": {
+    "name": "SmartMoneyFlowSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx",
+    "type": "logic",
+    "size": 2969,
+    "coords": {
+      "x": 460,
+      "y": 315,
+      "z": 641
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx": {
+    "name": "EmpireMoodRingSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx",
+    "type": "logic",
+    "size": 2878,
+    "coords": {
+      "x": -79,
+      "y": -538,
+      "z": 605
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/PaperTradingMirror.jsx": {
+    "name": "PaperTradingMirror.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/PaperTradingMirror.jsx",
+    "type": "logic",
+    "size": 2362,
+    "coords": {
+      "x": -331,
+      "y": 550,
+      "z": 642
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx": {
+    "name": "PositionAgeHeatmapSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2622,
+    "coords": {
+      "x": 613,
+      "y": -193,
+      "z": 619
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx": {
+    "name": "ExchangeLatencyRadarSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx",
+    "type": "logic",
+    "size": 4245,
+    "coords": {
+      "x": -576,
+      "y": -249,
+      "z": 654
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/RollingSharpeSquare.jsx": {
+    "name": "RollingSharpeSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/RollingSharpeSquare.jsx",
+    "type": "logic",
+    "size": 2162,
+    "coords": {
+      "x": 280,
+      "y": 544,
+      "z": 624
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/AutoRebalanceSquare.jsx": {
+    "name": "AutoRebalanceSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/AutoRebalanceSquare.jsx",
+    "type": "logic",
+    "size": 2965,
+    "coords": {
+      "x": 239,
+      "y": -588,
+      "z": 633
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/PnlSplitSquare.jsx": {
+    "name": "PnlSplitSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/PnlSplitSquare.jsx",
+    "type": "logic",
+    "size": 2538,
+    "coords": {
+      "x": -583,
+      "y": 250,
+      "z": 575
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/IcebergDetectorSquare.jsx": {
+    "name": "IcebergDetectorSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/IcebergDetectorSquare.jsx",
+    "type": "logic",
+    "size": 2823,
+    "coords": {
+      "x": 566,
+      "y": 129,
+      "z": 659
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx": {
+    "name": "LiquidationHeatmapSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2750,
+    "coords": {
+      "x": -305,
+      "y": -572,
+      "z": 598
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx": {
+    "name": "ActiveOrdersLadderSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx",
+    "type": "logic",
+    "size": 2290,
+    "coords": {
+      "x": -79,
+      "y": 602,
+      "z": 614
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx": {
+    "name": "ProfitFactorTimelineSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx",
+    "type": "logic",
+    "size": 2950,
+    "coords": {
+      "x": 448,
+      "y": -366,
+      "z": 611
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/SlippageMonitorSquare.jsx": {
+    "name": "SlippageMonitorSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/SlippageMonitorSquare.jsx",
+    "type": "logic",
+    "size": 3931,
+    "coords": {
+      "x": -596,
+      "y": -17,
+      "z": 649
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/DailyLossLimitSquare.jsx": {
+    "name": "DailyLossLimitSquare.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/DailyLossLimitSquare.jsx",
+    "type": "logic",
+    "size": 3043,
+    "coords": {
+      "x": 376,
+      "y": 461,
+      "z": 591
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/FundingRateAlert.jsx": {
+    "name": "FundingRateAlert.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/FundingRateAlert.jsx",
+    "type": "logic",
+    "size": 1862,
+    "coords": {
+      "x": 16,
+      "y": -625,
+      "z": 596
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/LiveMarket/WhaleWatcher.jsx": {
+    "name": "WhaleWatcher.jsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/LiveMarket/WhaleWatcher.jsx",
+    "type": "logic",
+    "size": 1930,
+    "coords": {
+      "x": -391,
+      "y": 423,
+      "z": 636
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/components/StatCard.tsx": {
+    "name": "StatCard.tsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/components/StatCard.tsx",
+    "type": "logic",
+    "size": 791,
+    "coords": {
+      "x": 592,
+      "y": -14,
+      "z": 644
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/components/OrderForm.tsx": {
+    "name": "OrderForm.tsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/components/OrderForm.tsx",
+    "type": "logic",
+    "size": 2051,
+    "coords": {
+      "x": -514,
+      "y": -424,
+      "z": 653
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/components/OrderBook.tsx": {
+    "name": "OrderBook.tsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/components/OrderBook.tsx",
+    "type": "logic",
+    "size": 1814,
+    "coords": {
+      "x": 62,
+      "y": 645,
+      "z": 580
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/components/Watchlist.tsx": {
+    "name": "Watchlist.tsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/components/Watchlist.tsx",
+    "type": "logic",
+    "size": 2220,
+    "coords": {
+      "x": 381,
+      "y": -520,
+      "z": 618
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/components/ChartPanel.tsx": {
+    "name": "ChartPanel.tsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/components/ChartPanel.tsx",
+    "type": "logic",
+    "size": 1730,
+    "coords": {
+      "x": -635,
+      "y": 143,
+      "z": 647
+    }
+  },
+  "render_sphere_standalone_import/src/components/organisms/components/DecisionStream.tsx": {
+    "name": "DecisionStream.tsx",
+    "path": "render_sphere_standalone_import/src/components/organisms/components/DecisionStream.tsx",
+    "type": "logic",
+    "size": 6262,
+    "coords": {
+      "x": 549,
+      "y": 264,
+      "z": 606
+    }
+  },
+  "render_sphere_standalone_import/src/engine/Empire3D.js": {
+    "name": "Empire3D.js",
+    "path": "render_sphere_standalone_import/src/engine/Empire3D.js",
+    "type": "logic",
+    "size": 5881,
+    "coords": {
+      "x": -223,
+      "y": -624,
+      "z": 621
+    }
+  },
+  "config/EmpireTerminal.jsx": {
+    "name": "EmpireTerminal.jsx",
+    "path": "config/EmpireTerminal.jsx",
+    "type": "logic",
+    "size": 38798,
+    "coords": {
+      "x": -242,
+      "y": 621,
+      "z": 562
+    }
+  },
+  "config/WrongPassword.mp4": {
+    "name": "WrongPassword.mp4",
+    "path": "config/WrongPassword.mp4",
+    "type": "code",
+    "size": 14075086,
+    "coords": {
+      "x": 634,
+      "y": -286,
+      "z": 635
+    }
+  },
+  "config/README_DEPLOY.md": {
+    "name": "README_DEPLOY.md",
+    "path": "config/README_DEPLOY.md",
+    "type": "data",
+    "size": 1381,
+    "coords": {
+      "x": -617,
+      "y": -241,
+      "z": 599
+    }
+  },
+  "config/vertex.json": {
+    "name": "vertex.json",
+    "path": "config/vertex.json",
+    "type": "data",
+    "size": 114,
+    "coords": {
+      "x": 298,
+      "y": 538,
+      "z": 609
+    }
+  },
+  "config/USER_MANUAL.md": {
+    "name": "USER_MANUAL.md",
+    "path": "config/USER_MANUAL.md",
+    "type": "data",
+    "size": 3458,
+    "coords": {
+      "x": 141,
+      "y": -672,
+      "z": 589
+    }
+  },
+  "config/PasswordCorrect.mp4": {
+    "name": "PasswordCorrect.mp4",
+    "path": "config/PasswordCorrect.mp4",
+    "type": "code",
+    "size": 14607056,
+    "coords": {
+      "x": -521,
+      "y": 340,
+      "z": 617
+    }
+  },
+  "config/GrokSession.jsx": {
+    "name": "GrokSession.jsx",
+    "path": "config/GrokSession.jsx",
+    "type": "logic",
+    "size": 9216,
+    "coords": {
+      "x": 669,
+      "y": 96,
+      "z": 555
+    }
+  },
+  "render_sphere_standalone/sphere.log": {
+    "name": "sphere.log",
+    "path": "render_sphere_standalone/sphere.log",
+    "type": "code",
+    "size": 0,
+    "coords": {
+      "x": -468,
+      "y": -489,
+      "z": 542
+    }
+  },
+  "render_sphere_standalone/package.json": {
+    "name": "package.json",
+    "path": "render_sphere_standalone/package.json",
+    "type": "data",
+    "size": 980,
+    "coords": {
+      "x": -5,
+      "y": 657,
+      "z": 631
+    }
+  },
+  "render_sphere_standalone/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "render_sphere_standalone/package-lock.json",
+    "type": "data",
+    "size": 365137,
+    "coords": {
+      "x": 430,
+      "y": -510,
+      "z": 621
+    }
+  },
+  "render_sphere_standalone/vite.config.js": {
+    "name": "vite.config.js",
+    "path": "render_sphere_standalone/vite.config.js",
+    "type": "logic",
+    "size": 271,
+    "coords": {
+      "x": -663,
+      "y": 49,
+      "z": 533
+    }
+  },
+  "render_sphere_standalone/index.html": {
+    "name": "index.html",
+    "path": "render_sphere_standalone/index.html",
+    "type": "code",
+    "size": 2543,
+    "coords": {
+      "x": 530,
+      "y": 425,
+      "z": 628
+    }
+  },
+  "render_sphere_standalone/src/main.jsx": {
+    "name": "main.jsx",
+    "path": "render_sphere_standalone/src/main.jsx",
+    "type": "logic",
+    "size": 1269,
+    "coords": {
+      "x": -82,
+      "y": -700,
+      "z": 617
+    }
+  },
+  "render_sphere_standalone/src/config/api.js": {
+    "name": "api.js",
+    "path": "render_sphere_standalone/src/config/api.js",
+    "type": "logic",
+    "size": 466,
+    "coords": {
+      "x": -413,
+      "y": 564,
+      "z": 535
+    }
+  },
+  "render_sphere_standalone/src/system/State.js": {
+    "name": "State.js",
+    "path": "render_sphere_standalone/src/system/State.js",
+    "type": "logic",
+    "size": 2602,
+    "coords": {
+      "x": 658,
+      "y": -103,
+      "z": 601
+    }
+  },
+  "render_sphere_standalone/src/components/SphereChat.jsx": {
+    "name": "SphereChat.jsx",
+    "path": "render_sphere_standalone/src/components/SphereChat.jsx",
+    "type": "logic",
+    "size": 4466,
+    "coords": {
+      "x": -597,
+      "y": -328,
+      "z": 616
+    }
+  },
+  "render_sphere_standalone/src/components/EmpireIDE.jsx": {
+    "name": "EmpireIDE.jsx",
+    "path": "render_sphere_standalone/src/components/EmpireIDE.jsx",
+    "type": "logic",
+    "size": 18005,
+    "coords": {
+      "x": 185,
+      "y": 664,
+      "z": 581
+    }
+  },
+  "render_sphere_standalone/src/components/SphereChat.css": {
+    "name": "SphereChat.css",
+    "path": "render_sphere_standalone/src/components/SphereChat.css",
+    "type": "code",
+    "size": 3445,
+    "coords": {
+      "x": 312,
+      "y": -569,
+      "z": 614
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/MirrorReflectionSquare.jsx": {
+    "name": "MirrorReflectionSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/MirrorReflectionSquare.jsx",
+    "type": "logic",
+    "size": 2448,
+    "coords": {
+      "x": -605,
+      "y": 310,
+      "z": 563
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BacktestRecentTrades.jsx": {
+    "name": "BacktestRecentTrades.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BacktestRecentTrades.jsx",
+    "type": "logic",
+    "size": 1923,
+    "coords": {
+      "x": 672,
+      "y": 184,
+      "z": 545
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BotControl.jsx": {
+    "name": "BotControl.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BotControl.jsx",
+    "type": "logic",
+    "size": 1600,
+    "coords": {
+      "x": -312,
+      "y": -633,
+      "z": 609
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/StrategySwitcherSquare.jsx": {
+    "name": "StrategySwitcherSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/StrategySwitcherSquare.jsx",
+    "type": "logic",
+    "size": 4595,
+    "coords": {
+      "x": -180,
+      "y": 670,
+      "z": 605
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/ActiveBots.jsx": {
+    "name": "ActiveBots.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/ActiveBots.jsx",
+    "type": "logic",
+    "size": 3514,
+    "coords": {
+      "x": 584,
+      "y": -415,
+      "z": 558
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/StrategyParameters.jsx": {
+    "name": "StrategyParameters.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/StrategyParameters.jsx",
+    "type": "logic",
+    "size": 4788,
+    "coords": {
+      "x": -639,
+      "y": -109,
+      "z": 530
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/OrderEntry.jsx": {
+    "name": "OrderEntry.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/OrderEntry.jsx",
+    "type": "logic",
+    "size": 6358,
+    "coords": {
+      "x": 454,
+      "y": 516,
+      "z": 549
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveChart.jsx": {
+    "name": "LiveChart.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveChart.jsx",
+    "type": "logic",
+    "size": 5198,
+    "coords": {
+      "x": 82,
+      "y": -682,
+      "z": 602
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BacktestPerformance.jsx": {
+    "name": "BacktestPerformance.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BacktestPerformance.jsx",
+    "type": "logic",
+    "size": 2288,
+    "coords": {
+      "x": -527,
+      "y": 444,
+      "z": 555
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BacktestAllocation.jsx": {
+    "name": "BacktestAllocation.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BacktestAllocation.jsx",
+    "type": "logic",
+    "size": 1319,
+    "coords": {
+      "x": 734,
+      "y": 32,
+      "z": 513
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/FantasyFinanceBox.jsx": {
+    "name": "FantasyFinanceBox.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/FantasyFinanceBox.jsx",
+    "type": "logic",
+    "size": 22996,
+    "coords": {
+      "x": -472,
+      "y": -474,
+      "z": 583
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/NavBar.jsx": {
+    "name": "NavBar.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/NavBar.jsx",
+    "type": "logic",
+    "size": 1975,
+    "coords": {
+      "x": 38,
+      "y": 685,
+      "z": 521
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/README.md": {
+    "name": "README.md",
+    "path": "render_sphere_standalone/src/components/organisms/README.md",
+    "type": "data",
+    "size": 875,
+    "coords": {
+      "x": 411,
+      "y": -586,
+      "z": 582
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LeverageHeatSquare.jsx": {
+    "name": "LeverageHeatSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LeverageHeatSquare.jsx",
+    "type": "logic",
+    "size": 6065,
+    "coords": {
+      "x": -704,
+      "y": 105,
+      "z": 572
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BotUptimeSquare.jsx": {
+    "name": "BotUptimeSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BotUptimeSquare.jsx",
+    "type": "logic",
+    "size": 4798,
+    "coords": {
+      "x": 565,
+      "y": 409,
+      "z": 595
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/WinRateByHourSquare.jsx": {
+    "name": "WinRateByHourSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/WinRateByHourSquare.jsx",
+    "type": "logic",
+    "size": 4899,
+    "coords": {
+      "x": -203,
+      "y": -655,
+      "z": 583
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/RealTimePnL.jsx": {
+    "name": "RealTimePnL.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/RealTimePnL.jsx",
+    "type": "logic",
+    "size": 4737,
+    "coords": {
+      "x": -280,
+      "y": 671,
+      "z": 533
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/TradeHistory.jsx": {
+    "name": "TradeHistory.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/TradeHistory.jsx",
+    "type": "logic",
+    "size": 4981,
+    "coords": {
+      "x": 693,
+      "y": -224,
+      "z": 517
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BacktestStrategyParameters.jsx": {
+    "name": "BacktestStrategyParameters.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BacktestStrategyParameters.jsx",
+    "type": "logic",
+    "size": 5711,
+    "coords": {
+      "x": -684,
+      "y": -279,
+      "z": 543
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/SeasonalitySquare.jsx": {
+    "name": "SeasonalitySquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/SeasonalitySquare.jsx",
+    "type": "logic",
+    "size": 3009,
+    "coords": {
+      "x": 317,
+      "y": 690,
+      "z": 575
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/RSIThresholdSlider.jsx": {
+    "name": "RSIThresholdSlider.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/RSIThresholdSlider.jsx",
+    "type": "logic",
+    "size": 940,
+    "coords": {
+      "x": 205,
+      "y": -735,
+      "z": 532
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/DataStream.jsx": {
+    "name": "DataStream.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/DataStream.jsx",
+    "type": "logic",
+    "size": 3872,
+    "coords": {
+      "x": -575,
+      "y": 329,
+      "z": 566
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/Gemini_Strategies.jsx": {
+    "name": "Gemini_Strategies.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/Gemini_Strategies.jsx",
+    "type": "logic",
+    "size": 5286,
+    "coords": {
+      "x": 719,
+      "y": 149,
+      "z": 556
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/BacktestKeyMetrics.jsx": {
+    "name": "BacktestKeyMetrics.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/BacktestKeyMetrics.jsx",
+    "type": "logic",
+    "size": 1421,
+    "coords": {
+      "x": -431,
+      "y": -577,
+      "z": 515
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/WARNING_LEGO_ZONE.md": {
+    "name": "WARNING_LEGO_ZONE.md",
+    "path": "render_sphere_standalone/src/components/organisms/WARNING_LEGO_ZONE.md",
+    "type": "data",
+    "size": 435,
+    "coords": {
+      "x": -61,
+      "y": 716,
+      "z": 565
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/EmpireBox.jsx": {
+    "name": "EmpireBox.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/EmpireBox.jsx",
+    "type": "logic",
+    "size": 3983,
+    "coords": {
+      "x": 546,
+      "y": -423,
+      "z": 572
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/GenericTile.jsx": {
+    "name": "GenericTile.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/GenericTile.jsx",
+    "type": "logic",
+    "size": 365,
+    "coords": {
+      "x": -701,
+      "y": 14,
+      "z": 545
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/TaxLotCalculatorSquare.jsx": {
+    "name": "TaxLotCalculatorSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/TaxLotCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 9491,
+    "coords": {
+      "x": 521,
+      "y": 536,
+      "z": 519
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/GrokTerminal.jsx": {
+    "name": "GrokTerminal.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/GrokTerminal.jsx",
+    "type": "logic",
+    "size": 9936,
+    "coords": {
+      "x": -4,
+      "y": -690,
+      "z": 480
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/KillSwitchSquare.jsx": {
+    "name": "KillSwitchSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/KillSwitchSquare.jsx",
+    "type": "logic",
+    "size": 2670,
+    "coords": {
+      "x": -506,
+      "y": 604,
+      "z": 512
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/ProfitCalculatorSquare.jsx": {
+    "name": "ProfitCalculatorSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/ProfitCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 7926,
+    "coords": {
+      "x": 697,
+      "y": -131,
+      "z": 507
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/DrawdownChartSquare.jsx": {
+    "name": "DrawdownChartSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/DrawdownChartSquare.jsx",
+    "type": "logic",
+    "size": 2838,
+    "coords": {
+      "x": -625,
+      "y": -444,
+      "z": 494
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/PaperVsLivePnLSquare.jsx": {
+    "name": "PaperVsLivePnLSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/PaperVsLivePnLSquare.jsx",
+    "type": "logic",
+    "size": 4149,
+    "coords": {
+      "x": 205,
+      "y": 764,
+      "z": 559
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/StrategyLab.jsx": {
+    "name": "StrategyLab.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/StrategyLab.jsx",
+    "type": "logic",
+    "size": 17384,
+    "coords": {
+      "x": 408,
+      "y": -609,
+      "z": 568
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LegionGrid.jsx": {
+    "name": "LegionGrid.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LegionGrid.jsx",
+    "type": "logic",
+    "size": 15675,
+    "coords": {
+      "x": -693,
+      "y": 245,
+      "z": 521
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/Header.jsx": {
+    "name": "Header.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/Header.jsx",
+    "type": "logic",
+    "size": 193,
+    "coords": {
+      "x": 722,
+      "y": 294,
+      "z": 496
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/TradeEntry.jsx": {
+    "name": "TradeEntry.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/TradeEntry.jsx",
+    "type": "logic",
+    "size": 1692,
+    "coords": {
+      "x": -297,
+      "y": -674,
+      "z": 517
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/ServerStatus.jsx": {
+    "name": "ServerStatus.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/ServerStatus.jsx",
+    "type": "logic",
+    "size": 5618,
+    "coords": {
+      "x": -222,
+      "y": 726,
+      "z": 544
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/Grid2000.jsx": {
+    "name": "Grid2000.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/Grid2000.jsx",
+    "type": "logic",
+    "size": 1618,
+    "coords": {
+      "x": 657,
+      "y": -377,
+      "z": 555
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/MarketSentinel.jsx": {
+    "name": "MarketSentinel.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/MarketSentinel.jsx",
+    "type": "logic",
+    "size": 5544,
+    "coords": {
+      "x": -682,
+      "y": -204,
+      "z": 549
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/Swarm/BotSwarmControl.jsx": {
+    "name": "BotSwarmControl.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/Swarm/BotSwarmControl.jsx",
+    "type": "logic",
+    "size": 4997,
+    "coords": {
+      "x": 407,
+      "y": 590,
+      "z": 531
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/Swarm/CommandCenter.jsx": {
+    "name": "CommandCenter.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/Swarm/CommandCenter.jsx",
+    "type": "logic",
+    "size": 2554,
+    "coords": {
+      "x": 155,
+      "y": -781,
+      "z": 498
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/atoms/MarketAtoms.jsx": {
+    "name": "MarketAtoms.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/atoms/MarketAtoms.jsx",
+    "type": "logic",
+    "size": 4486,
+    "coords": {
+      "x": -593,
+      "y": 456,
+      "z": 491
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/wired/LiveDecisionBox.jsx": {
+    "name": "LiveDecisionBox.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/wired/LiveDecisionBox.jsx",
+    "type": "logic",
+    "size": 3902,
+    "coords": {
+      "x": 785,
+      "y": 25,
+      "z": 457
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/wired/DbStatsBox.jsx": {
+    "name": "DbStatsBox.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/wired/DbStatsBox.jsx",
+    "type": "logic",
+    "size": 1500,
+    "coords": {
+      "x": -539,
+      "y": -574,
+      "z": 492
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx": {
+    "name": "OrderFlowImbalanceSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx",
+    "type": "logic",
+    "size": 4260,
+    "coords": {
+      "x": 5,
+      "y": 743,
+      "z": 532
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/CvdSquare.jsx": {
+    "name": "CvdSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/CvdSquare.jsx",
+    "type": "logic",
+    "size": 3108,
+    "coords": {
+      "x": 501,
+      "y": -570,
+      "z": 540
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx": {
+    "name": "MoonBagTrackerSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx",
+    "type": "logic",
+    "size": 2402,
+    "coords": {
+      "x": -784,
+      "y": 75,
+      "z": 456
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/OcoManagerSquare.jsx": {
+    "name": "OcoManagerSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/OcoManagerSquare.jsx",
+    "type": "logic",
+    "size": 3287,
+    "coords": {
+      "x": 612,
+      "y": 479,
+      "z": 475
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/OrderBookPressureSquare.jsx": {
+    "name": "OrderBookPressureSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/OrderBookPressureSquare.jsx",
+    "type": "logic",
+    "size": 3553,
+    "coords": {
+      "x": -146,
+      "y": -750,
+      "z": 533
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/WhaleAlertSquare.jsx": {
+    "name": "WhaleAlertSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/WhaleAlertSquare.jsx",
+    "type": "logic",
+    "size": 3090,
+    "coords": {
+      "x": -395,
+      "y": 700,
+      "z": 535
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/StrategyContributionSquare.jsx": {
+    "name": "StrategyContributionSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/StrategyContributionSquare.jsx",
+    "type": "logic",
+    "size": 2705,
+    "coords": {
+      "x": 741,
+      "y": -208,
+      "z": 501
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx": {
+    "name": "GridBotVisualizerSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx",
+    "type": "logic",
+    "size": 4829,
+    "coords": {
+      "x": -670,
+      "y": -321,
+      "z": 457
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/DeltaExposureSquare.jsx": {
+    "name": "DeltaExposureSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/DeltaExposureSquare.jsx",
+    "type": "logic",
+    "size": 2377,
+    "coords": {
+      "x": 283,
+      "y": 701,
+      "z": 505
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/LiquidationHeatmap.jsx": {
+    "name": "LiquidationHeatmap.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/LiquidationHeatmap.jsx",
+    "type": "logic",
+    "size": 2098,
+    "coords": {
+      "x": 312,
+      "y": -742,
+      "z": 494
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/VwapDeviationSquare.jsx": {
+    "name": "VwapDeviationSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/VwapDeviationSquare.jsx",
+    "type": "logic",
+    "size": 2865,
+    "coords": {
+      "x": -664,
+      "y": 304,
+      "z": 482
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/GasFeeTracker.jsx": {
+    "name": "GasFeeTracker.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/GasFeeTracker.jsx",
+    "type": "logic",
+    "size": 1250,
+    "coords": {
+      "x": 794,
+      "y": 185,
+      "z": 472
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx": {
+    "name": "AvgHoldTimeSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx",
+    "type": "logic",
+    "size": 1406,
+    "coords": {
+      "x": -384,
+      "y": -662,
+      "z": 455
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx": {
+    "name": "FundingRateTrackerSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx",
+    "type": "logic",
+    "size": 3728,
+    "coords": {
+      "x": -172,
+      "y": 720,
+      "z": 459
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx": {
+    "name": "ConsecutiveCandleSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx",
+    "type": "logic",
+    "size": 2394,
+    "coords": {
+      "x": 598,
+      "y": -492,
+      "z": 465
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/OrderBookDepthSquare.jsx": {
+    "name": "OrderBookDepthSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/OrderBookDepthSquare.jsx",
+    "type": "logic",
+    "size": 3858,
+    "coords": {
+      "x": -793,
+      "y": -124,
+      "z": 439
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx": {
+    "name": "CorrelationMatrixSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx",
+    "type": "logic",
+    "size": 3406,
+    "coords": {
+      "x": 472,
+      "y": 554,
+      "z": 451
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/PortfolioRebalance.jsx": {
+    "name": "PortfolioRebalance.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/PortfolioRebalance.jsx",
+    "type": "logic",
+    "size": 1781,
+    "coords": {
+      "x": -17,
+      "y": -821,
+      "z": 441
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/SentimentStream.jsx": {
+    "name": "SentimentStream.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/SentimentStream.jsx",
+    "type": "logic",
+    "size": 1929,
+    "coords": {
+      "x": -554,
+      "y": 565,
+      "z": 503
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/OneClickDeploy.jsx": {
+    "name": "OneClickDeploy.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/OneClickDeploy.jsx",
+    "type": "logic",
+    "size": 1921,
+    "coords": {
+      "x": 770,
+      "y": -9,
+      "z": 437
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/LeaderboardLive.jsx": {
+    "name": "LeaderboardLive.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/LeaderboardLive.jsx",
+    "type": "logic",
+    "size": 2173,
+    "coords": {
+      "x": -620,
+      "y": -541,
+      "z": 453
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx": {
+    "name": "RealTimeOrderFlowSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx",
+    "type": "logic",
+    "size": 3211,
+    "coords": {
+      "x": 147,
+      "y": 792,
+      "z": 504
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/FomoMeterSquare.jsx": {
+    "name": "FomoMeterSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/FomoMeterSquare.jsx",
+    "type": "logic",
+    "size": 3543,
+    "coords": {
+      "x": 436,
+      "y": -643,
+      "z": 459
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx": {
+    "name": "SmartMoneyFlowSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx",
+    "type": "logic",
+    "size": 2969,
+    "coords": {
+      "x": -816,
+      "y": 201,
+      "z": 487
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx": {
+    "name": "EmpireMoodRingSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx",
+    "type": "logic",
+    "size": 2878,
+    "coords": {
+      "x": 720,
+      "y": 343,
+      "z": 448
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/PaperTradingMirror.jsx": {
+    "name": "PaperTradingMirror.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/PaperTradingMirror.jsx",
+    "type": "logic",
+    "size": 2362,
+    "coords": {
+      "x": -239,
+      "y": -730,
+      "z": 467
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx": {
+    "name": "PositionAgeHeatmapSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2622,
+    "coords": {
+      "x": -281,
+      "y": 754,
+      "z": 412
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx": {
+    "name": "ExchangeLatencyRadarSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx",
+    "type": "logic",
+    "size": 4245,
+    "coords": {
+      "x": 782,
+      "y": -333,
+      "z": 463
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/RollingSharpeSquare.jsx": {
+    "name": "RollingSharpeSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/RollingSharpeSquare.jsx",
+    "type": "logic",
+    "size": 2162,
+    "coords": {
+      "x": -729,
+      "y": -229,
+      "z": 460
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/AutoRebalanceSquare.jsx": {
+    "name": "AutoRebalanceSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/AutoRebalanceSquare.jsx",
+    "type": "logic",
+    "size": 2965,
+    "coords": {
+      "x": 404,
+      "y": 730,
+      "z": 459
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/PnlSplitSquare.jsx": {
+    "name": "PnlSplitSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/PnlSplitSquare.jsx",
+    "type": "logic",
+    "size": 2538,
+    "coords": {
+      "x": 154,
+      "y": -748,
+      "z": 503
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/IcebergDetectorSquare.jsx": {
+    "name": "IcebergDetectorSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/IcebergDetectorSquare.jsx",
+    "type": "logic",
+    "size": 2823,
+    "coords": {
+      "x": -673,
+      "y": 437,
+      "z": 480
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx": {
+    "name": "LiquidationHeatmapSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2750,
+    "coords": {
+      "x": 834,
+      "y": 100,
+      "z": 424
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx": {
+    "name": "ActiveOrdersLadderSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx",
+    "type": "logic",
+    "size": 2290,
+    "coords": {
+      "x": -464,
+      "y": -663,
+      "z": 497
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx": {
+    "name": "ProfitFactorTimelineSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx",
+    "type": "logic",
+    "size": 2950,
+    "coords": {
+      "x": -29,
+      "y": 827,
+      "z": 450
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/SlippageMonitorSquare.jsx": {
+    "name": "SlippageMonitorSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/SlippageMonitorSquare.jsx",
+    "type": "logic",
+    "size": 3931,
+    "coords": {
+      "x": 555,
+      "y": -514,
+      "z": 472
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/DailyLossLimitSquare.jsx": {
+    "name": "DailyLossLimitSquare.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/DailyLossLimitSquare.jsx",
+    "type": "logic",
+    "size": 3043,
+    "coords": {
+      "x": -863,
+      "y": 33,
+      "z": 416
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/FundingRateAlert.jsx": {
+    "name": "FundingRateAlert.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/FundingRateAlert.jsx",
+    "type": "logic",
+    "size": 1862,
+    "coords": {
+      "x": 628,
+      "y": 535,
+      "z": 399
+    }
+  },
+  "render_sphere_standalone/src/components/organisms/LiveMarket/WhaleWatcher.jsx": {
+    "name": "WhaleWatcher.jsx",
+    "path": "render_sphere_standalone/src/components/organisms/LiveMarket/WhaleWatcher.jsx",
+    "type": "logic",
+    "size": 1930,
+    "coords": {
+      "x": -124,
+      "y": -848,
+      "z": 462
+    }
+  },
+  "render_sphere_standalone/src/engine/Empire3D.js": {
+    "name": "Empire3D.js",
+    "path": "render_sphere_standalone/src/engine/Empire3D.js",
+    "type": "logic",
+    "size": 5881,
+    "coords": {
+      "x": -484,
+      "y": 697,
+      "z": 419
+    }
+  },
+  "scripts/dev-web.mjs": {
+    "name": "dev-web.mjs",
+    "path": "scripts/dev-web.mjs",
+    "type": "code",
+    "size": 273,
+    "coords": {
+      "x": 801,
+      "y": -114,
+      "z": 459
+    }
+  },
+  "scripts/run-electron-dev.mjs": {
+    "name": "run-electron-dev.mjs",
+    "path": "scripts/run-electron-dev.mjs",
+    "type": "code",
+    "size": 600,
+    "coords": {
+      "x": -678,
+      "y": -417,
+      "z": 388
+    }
+  },
+  "src/main.jsx": {
+    "name": "main.jsx",
+    "path": "src/main.jsx",
+    "type": "logic",
+    "size": 1061,
+    "coords": {
+      "x": 238,
+      "y": 771,
+      "z": 401
+    }
+  },
+  "src/SystemTerminal.jsx": {
+    "name": "SystemTerminal.jsx",
+    "path": "src/SystemTerminal.jsx",
+    "type": "logic",
+    "size": 18516,
+    "coords": {
+      "x": 401,
+      "y": -766,
+      "z": 462
+    }
+  },
+  "src/config/api.js": {
+    "name": "api.js",
+    "path": "src/config/api.js",
+    "type": "logic",
+    "size": 466,
+    "coords": {
+      "x": -796,
+      "y": 338,
+      "z": 430
+    }
+  },
+  "src/generated_squares/square_variation_4.tsx": {
+    "name": "square_variation_4.tsx",
+    "path": "src/generated_squares/square_variation_4.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 731,
+      "y": 268,
+      "z": 435
+    }
+  },
+  "src/generated_squares/square_variation_12.tsx": {
+    "name": "square_variation_12.tsx",
+    "path": "src/generated_squares/square_variation_12.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": -319,
+      "y": -700,
+      "z": 426
+    }
+  },
+  "src/generated_squares/square_variation_5.tsx": {
+    "name": "square_variation_5.tsx",
+    "path": "src/generated_squares/square_variation_5.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -241,
+      "y": 756,
+      "z": 444
+    }
+  },
+  "src/generated_squares/square_variation_2.tsx": {
+    "name": "square_variation_2.tsx",
+    "path": "src/generated_squares/square_variation_2.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 746,
+      "y": -427,
+      "z": 423
+    }
+  },
+  "src/generated_squares/square_variation_8.tsx": {
+    "name": "square_variation_8.tsx",
+    "path": "src/generated_squares/square_variation_8.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -814,
+      "y": -135,
+      "z": 441
+    }
+  },
+  "src/generated_squares/square_variation_10.tsx": {
+    "name": "square_variation_10.tsx",
+    "path": "src/generated_squares/square_variation_10.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 524,
+      "y": 653,
+      "z": 472
+    }
+  },
+  "src/generated_squares/square_variation_20.tsx": {
+    "name": "square_variation_20.tsx",
+    "path": "src/generated_squares/square_variation_20.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": 111,
+      "y": -866,
+      "z": 464
+    }
+  },
+  "src/generated_squares/square_variation_1.tsx": {
+    "name": "square_variation_1.tsx",
+    "path": "src/generated_squares/square_variation_1.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -600,
+      "y": 514,
+      "z": 390
+    }
+  },
+  "src/generated_squares/square_variation_19.tsx": {
+    "name": "square_variation_19.tsx",
+    "path": "src/generated_squares/square_variation_19.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": 795,
+      "y": 46,
+      "z": 380
+    }
+  },
+  "src/generated_squares/square_variation_17.tsx": {
+    "name": "square_variation_17.tsx",
+    "path": "src/generated_squares/square_variation_17.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": -566,
+      "y": -613,
+      "z": 377
+    }
+  },
+  "src/generated_squares/square_variation_18.tsx": {
+    "name": "square_variation_18.tsx",
+    "path": "src/generated_squares/square_variation_18.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": 15,
+      "y": 800,
+      "z": 394
+    }
+  },
+  "src/generated_squares/square_variation_7.tsx": {
+    "name": "square_variation_7.tsx",
+    "path": "src/generated_squares/square_variation_7.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 516,
+      "y": -699,
+      "z": 431
+    }
+  },
+  "src/generated_squares/square_variation_9.tsx": {
+    "name": "square_variation_9.tsx",
+    "path": "src/generated_squares/square_variation_9.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -804,
+      "y": 148,
+      "z": 423
+    }
+  },
+  "src/generated_squares/square_variation_14.tsx": {
+    "name": "square_variation_14.tsx",
+    "path": "src/generated_squares/square_variation_14.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": 728,
+      "y": 498,
+      "z": 385
+    }
+  },
+  "src/generated_squares/square_variation_11.tsx": {
+    "name": "square_variation_11.tsx",
+    "path": "src/generated_squares/square_variation_11.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": -245,
+      "y": -860,
+      "z": 419
+    }
+  },
+  "src/generated_squares/square_variation_13.tsx": {
+    "name": "square_variation_13.tsx",
+    "path": "src/generated_squares/square_variation_13.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": -424,
+      "y": 784,
+      "z": 416
+    }
+  },
+  "src/generated_squares/square_variation_16.tsx": {
+    "name": "square_variation_16.tsx",
+    "path": "src/generated_squares/square_variation_16.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": 762,
+      "y": -291,
+      "z": 392
+    }
+  },
+  "src/generated_squares/square_variation_6.tsx": {
+    "name": "square_variation_6.tsx",
+    "path": "src/generated_squares/square_variation_6.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": -741,
+      "y": -321,
+      "z": 428
+    }
+  },
+  "src/generated_squares/square_variation_3.tsx": {
+    "name": "square_variation_3.tsx",
+    "path": "src/generated_squares/square_variation_3.tsx",
+    "type": "logic",
+    "size": 1339,
+    "coords": {
+      "x": 297,
+      "y": 750,
+      "z": 407
+    }
+  },
+  "src/generated_squares/square_variation_15.tsx": {
+    "name": "square_variation_15.tsx",
+    "path": "src/generated_squares/square_variation_15.tsx",
+    "type": "logic",
+    "size": 1359,
+    "coords": {
+      "x": 292,
+      "y": -823,
+      "z": 366
+    }
+  },
+  "src/system/State.js": {
+    "name": "State.js",
+    "path": "src/system/State.js",
+    "type": "logic",
+    "size": 2602,
+    "coords": {
+      "x": -789,
+      "y": 388,
+      "z": 389
+    }
+  },
+  "src/components/EmpireIDE.jsx": {
+    "name": "EmpireIDE.jsx",
+    "path": "src/components/EmpireIDE.jsx",
+    "type": "logic",
+    "size": 17120,
+    "coords": {
+      "x": 880,
+      "y": 209,
+      "z": 373
+    }
+  },
+  "src/components/HelmsdeepCommandCenter.jsx": {
+    "name": "HelmsdeepCommandCenter.jsx",
+    "path": "src/components/HelmsdeepCommandCenter.jsx",
+    "type": "logic",
+    "size": 69895,
+    "coords": {
+      "x": -430,
+      "y": -688,
+      "z": 367
+    }
+  },
+  "src/components/GrokBrowser.jsx": {
+    "name": "GrokBrowser.jsx",
+    "path": "src/components/GrokBrowser.jsx",
+    "type": "logic",
+    "size": 12081,
+    "coords": {
+      "x": -89,
+      "y": 864,
+      "z": 400
+    }
+  },
+  "src/components/atoms/TerminalInstance.jsx": {
+    "name": "TerminalInstance.jsx",
+    "path": "src/components/atoms/TerminalInstance.jsx",
+    "type": "logic",
+    "size": 2023,
+    "coords": {
+      "x": 663,
+      "y": -491,
+      "z": 433
+    }
+  },
+  "src/components/organisms/MirrorReflectionSquare.jsx": {
+    "name": "MirrorReflectionSquare.jsx",
+    "path": "src/components/organisms/MirrorReflectionSquare.jsx",
+    "type": "logic",
+    "size": 2448,
+    "coords": {
+      "x": -863,
+      "y": -54,
+      "z": 341
+    }
+  },
+  "src/components/organisms/BacktestRecentTrades.jsx": {
+    "name": "BacktestRecentTrades.jsx",
+    "path": "src/components/organisms/BacktestRecentTrades.jsx",
+    "type": "logic",
+    "size": 1923,
+    "coords": {
+      "x": 613,
+      "y": 585,
+      "z": 387
+    }
+  },
+  "src/components/organisms/BotControl.jsx": {
+    "name": "BotControl.jsx",
+    "path": "src/components/organisms/BotControl.jsx",
+    "type": "logic",
+    "size": 1600,
+    "coords": {
+      "x": 15,
+      "y": -851,
+      "z": 337
+    }
+  },
+  "src/components/organisms/StrategySwitcherSquare.jsx": {
+    "name": "StrategySwitcherSquare.jsx",
+    "path": "src/components/organisms/StrategySwitcherSquare.jsx",
+    "type": "logic",
+    "size": 4595,
+    "coords": {
+      "x": -585,
+      "y": 698,
+      "z": 396
+    }
+  },
+  "src/components/organisms/ActiveBots.jsx": {
+    "name": "ActiveBots.jsx",
+    "path": "src/components/organisms/ActiveBots.jsx",
+    "type": "logic",
+    "size": 3514,
+    "coords": {
+      "x": 821,
+      "y": -43,
+      "z": 355
+    }
+  },
+  "src/components/organisms/StrategyParameters.jsx": {
+    "name": "StrategyParameters.jsx",
+    "path": "src/components/organisms/StrategyParameters.jsx",
+    "type": "logic",
+    "size": 4788,
+    "coords": {
+      "x": -659,
+      "y": -539,
+      "z": 367
+    }
+  },
+  "src/components/organisms/QuadSquadron.jsx": {
+    "name": "QuadSquadron.jsx",
+    "path": "src/components/organisms/QuadSquadron.jsx",
+    "type": "logic",
+    "size": 5054,
+    "coords": {
+      "x": 180,
+      "y": 896,
+      "z": 373
+    }
+  },
+  "src/components/organisms/OrderEntry.jsx": {
+    "name": "OrderEntry.jsx",
+    "path": "src/components/organisms/OrderEntry.jsx",
+    "type": "logic",
+    "size": 6358,
+    "coords": {
+      "x": 471,
+      "y": -700,
+      "z": 419
+    }
+  },
+  "src/components/organisms/LiveChart.jsx": {
+    "name": "LiveChart.jsx",
+    "path": "src/components/organisms/LiveChart.jsx",
+    "type": "logic",
+    "size": 5198,
+    "coords": {
+      "x": -839,
+      "y": 208,
+      "z": 417
+    }
+  },
+  "src/components/organisms/BacktestPerformance.jsx": {
+    "name": "BacktestPerformance.jsx",
+    "path": "src/components/organisms/BacktestPerformance.jsx",
+    "type": "logic",
+    "size": 2288,
+    "coords": {
+      "x": 833,
+      "y": 412,
+      "z": 358
+    }
+  },
+  "src/components/organisms/BacktestAllocation.jsx": {
+    "name": "BacktestAllocation.jsx",
+    "path": "src/components/organisms/BacktestAllocation.jsx",
+    "type": "logic",
+    "size": 1319,
+    "coords": {
+      "x": -269,
+      "y": -820,
+      "z": 336
+    }
+  },
+  "src/components/organisms/FantasyFinanceBox.jsx": {
+    "name": "FantasyFinanceBox.jsx",
+    "path": "src/components/organisms/FantasyFinanceBox.jsx",
+    "type": "logic",
+    "size": 22996,
+    "coords": {
+      "x": -313,
+      "y": 803,
+      "z": 383
+    }
+  },
+  "src/components/organisms/NavBar.jsx": {
+    "name": "NavBar.jsx",
+    "path": "src/components/organisms/NavBar.jsx",
+    "type": "logic",
+    "size": 1975,
+    "coords": {
+      "x": 768,
+      "y": -365,
+      "z": 330
+    }
+  },
+  "src/components/organisms/README.md": {
+    "name": "README.md",
+    "path": "src/components/organisms/README.md",
+    "type": "data",
+    "size": 875,
+    "coords": {
+      "x": -864,
+      "y": -241,
+      "z": 329
+    }
+  },
+  "src/components/organisms/LeverageHeatSquare.jsx": {
+    "name": "LeverageHeatSquare.jsx",
+    "path": "src/components/organisms/LeverageHeatSquare.jsx",
+    "type": "logic",
+    "size": 6065,
+    "coords": {
+      "x": 495,
+      "y": 709,
+      "z": 363
+    }
+  },
+  "src/components/organisms/BotUptimeSquare.jsx": {
+    "name": "BotUptimeSquare.jsx",
+    "path": "src/components/organisms/BotUptimeSquare.jsx",
+    "type": "logic",
+    "size": 4798,
+    "coords": {
+      "x": 215,
+      "y": -848,
+      "z": 383
+    }
+  },
+  "src/components/organisms/WinRateByHourSquare.jsx": {
+    "name": "WinRateByHourSquare.jsx",
+    "path": "src/components/organisms/WinRateByHourSquare.jsx",
+    "type": "logic",
+    "size": 4899,
+    "coords": {
+      "x": -753,
+      "y": 560,
+      "z": 358
+    }
+  },
+  "src/components/organisms/RealTimePnL.jsx": {
+    "name": "RealTimePnL.jsx",
+    "path": "src/components/organisms/RealTimePnL.jsx",
+    "type": "logic",
+    "size": 4737,
+    "coords": {
+      "x": 878,
+      "y": 75,
+      "z": 325
+    }
+  },
+  "src/components/organisms/TradeHistory.jsx": {
+    "name": "TradeHistory.jsx",
+    "path": "src/components/organisms/TradeHistory.jsx",
+    "type": "logic",
+    "size": 4981,
+    "coords": {
+      "x": -566,
+      "y": -677,
+      "z": 381
+    }
+  },
+  "src/components/organisms/BacktestStrategyParameters.jsx": {
+    "name": "BacktestStrategyParameters.jsx",
+    "path": "src/components/organisms/BacktestStrategyParameters.jsx",
+    "type": "logic",
+    "size": 5711,
+    "coords": {
+      "x": -64,
+      "y": 862,
+      "z": 361
+    }
+  },
+  "src/components/organisms/SeasonalitySquare.jsx": {
+    "name": "SeasonalitySquare.jsx",
+    "path": "src/components/organisms/SeasonalitySquare.jsx",
+    "type": "logic",
+    "size": 3009,
+    "coords": {
+      "x": 603,
+      "y": -675,
+      "z": 376
+    }
+  },
+  "src/components/organisms/RSIThresholdSlider.jsx": {
+    "name": "RSIThresholdSlider.jsx",
+    "path": "src/components/organisms/RSIThresholdSlider.jsx",
+    "type": "logic",
+    "size": 940,
+    "coords": {
+      "x": -915,
+      "y": 92,
+      "z": 309
+    }
+  },
+  "src/components/organisms/DataStream.jsx": {
+    "name": "DataStream.jsx",
+    "path": "src/components/organisms/DataStream.jsx",
+    "type": "logic",
+    "size": 3872,
+    "coords": {
+      "x": 694,
+      "y": 539,
+      "z": 339
+    }
+  },
+  "src/components/organisms/Gemini_Strategies.jsx": {
+    "name": "Gemini_Strategies.jsx",
+    "path": "src/components/organisms/Gemini_Strategies.jsx",
+    "type": "logic",
+    "size": 5286,
+    "coords": {
+      "x": -178,
+      "y": -883,
+      "z": 386
+    }
+  },
+  "src/components/organisms/BacktestKeyMetrics.jsx": {
+    "name": "BacktestKeyMetrics.jsx",
+    "path": "src/components/organisms/BacktestKeyMetrics.jsx",
+    "type": "logic",
+    "size": 1421,
+    "coords": {
+      "x": -516,
+      "y": 707,
+      "z": 313
+    }
+  },
+  "src/components/organisms/WARNING_LEGO_ZONE.md": {
+    "name": "WARNING_LEGO_ZONE.md",
+    "path": "src/components/organisms/WARNING_LEGO_ZONE.md",
+    "type": "data",
+    "size": 435,
+    "coords": {
+      "x": 906,
+      "y": -168,
+      "z": 394
+    }
+  },
+  "src/components/organisms/EmpireBox.jsx": {
+    "name": "EmpireBox.jsx",
+    "path": "src/components/organisms/EmpireBox.jsx",
+    "type": "logic",
+    "size": 3983,
+    "coords": {
+      "x": -744,
+      "y": -432,
+      "z": 316
+    }
+  },
+  "src/components/organisms/GenericTile.jsx": {
+    "name": "GenericTile.jsx",
+    "path": "src/components/organisms/GenericTile.jsx",
+    "type": "logic",
+    "size": 365,
+    "coords": {
+      "x": 313,
+      "y": 863,
+      "z": 297
+    }
+  },
+  "src/components/organisms/TaxLotCalculatorSquare.jsx": {
+    "name": "TaxLotCalculatorSquare.jsx",
+    "path": "src/components/organisms/TaxLotCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 9491,
+    "coords": {
+      "x": 376,
+      "y": -871,
+      "z": 351
+    }
+  },
+  "src/components/organisms/GrokTerminal.jsx": {
+    "name": "GrokTerminal.jsx",
+    "path": "src/components/organisms/GrokTerminal.jsx",
+    "type": "logic",
+    "size": 9936,
+    "coords": {
+      "x": -782,
+      "y": 324,
+      "z": 290
+    }
+  },
+  "src/components/organisms/KillSwitchSquare.jsx": {
+    "name": "KillSwitchSquare.jsx",
+    "path": "src/components/organisms/KillSwitchSquare.jsx",
+    "type": "logic",
+    "size": 2670,
+    "coords": {
+      "x": 820,
+      "y": 239,
+      "z": 301
+    }
+  },
+  "src/components/organisms/ProfitCalculatorSquare.jsx": {
+    "name": "ProfitCalculatorSquare.jsx",
+    "path": "src/components/organisms/ProfitCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 7926,
+    "coords": {
+      "x": -428,
+      "y": -820,
+      "z": 287
+    }
+  },
+  "src/components/organisms/DrawdownChartSquare.jsx": {
+    "name": "DrawdownChartSquare.jsx",
+    "path": "src/components/organisms/DrawdownChartSquare.jsx",
+    "type": "logic",
+    "size": 2838,
+    "coords": {
+      "x": -206,
+      "y": 892,
+      "z": 293
+    }
+  },
+  "src/components/organisms/PaperVsLivePnLSquare.jsx": {
+    "name": "PaperVsLivePnLSquare.jsx",
+    "path": "src/components/organisms/PaperVsLivePnLSquare.jsx",
+    "type": "logic",
+    "size": 4149,
+    "coords": {
+      "x": 738,
+      "y": -507,
+      "z": 334
+    }
+  },
+  "src/components/organisms/StrategyLab.jsx": {
+    "name": "StrategyLab.jsx",
+    "path": "src/components/organisms/StrategyLab.jsx",
+    "type": "logic",
+    "size": 17384,
+    "coords": {
+      "x": -927,
+      "y": -164,
+      "z": 337
+    }
+  },
+  "src/components/organisms/LegionGrid.jsx": {
+    "name": "LegionGrid.jsx",
+    "path": "src/components/organisms/LegionGrid.jsx",
+    "type": "logic",
+    "size": 15675,
+    "coords": {
+      "x": 588,
+      "y": 696,
+      "z": 367
+    }
+  },
+  "src/components/organisms/Header.jsx": {
+    "name": "Header.jsx",
+    "path": "src/components/organisms/Header.jsx",
+    "type": "logic",
+    "size": 193,
+    "coords": {
+      "x": 57,
+      "y": -905,
+      "z": 341
+    }
+  },
+  "src/components/organisms/TradeEntry.jsx": {
+    "name": "TradeEntry.jsx",
+    "path": "src/components/organisms/TradeEntry.jsx",
+    "type": "logic",
+    "size": 1692,
+    "coords": {
+      "x": -673,
+      "y": 621,
+      "z": 358
+    }
+  },
+  "src/components/organisms/ServerStatus.jsx": {
+    "name": "ServerStatus.jsx",
+    "path": "src/components/organisms/ServerStatus.jsx",
+    "type": "logic",
+    "size": 5618,
+    "coords": {
+      "x": 904,
+      "y": 25,
+      "z": 337
+    }
+  },
+  "src/components/organisms/Grid2000.jsx": {
+    "name": "Grid2000.jsx",
+    "path": "src/components/organisms/Grid2000.jsx",
+    "type": "logic",
+    "size": 1618,
+    "coords": {
+      "x": -660,
+      "y": -564,
+      "z": 276
+    }
+  },
+  "src/components/organisms/MarketSentinel.jsx": {
+    "name": "MarketSentinel.jsx",
+    "path": "src/components/organisms/MarketSentinel.jsx",
+    "type": "logic",
+    "size": 5544,
+    "coords": {
+      "x": 82,
+      "y": 898,
+      "z": 364
+    }
+  },
+  "src/components/organisms/Swarm/BotSwarmControl.jsx": {
+    "name": "BotSwarmControl.jsx",
+    "path": "src/components/organisms/Swarm/BotSwarmControl.jsx",
+    "type": "logic",
+    "size": 4997,
+    "coords": {
+      "x": 508,
+      "y": -735,
+      "z": 313
+    }
+  },
+  "src/components/organisms/Swarm/CommandCenter.jsx": {
+    "name": "CommandCenter.jsx",
+    "path": "src/components/organisms/Swarm/CommandCenter.jsx",
+    "type": "logic",
+    "size": 2554,
+    "coords": {
+      "x": -906,
+      "y": 167,
+      "z": 293
+    }
+  },
+  "src/components/organisms/atoms/MarketAtoms.jsx": {
+    "name": "MarketAtoms.jsx",
+    "path": "src/components/organisms/atoms/MarketAtoms.jsx",
+    "type": "logic",
+    "size": 4486,
+    "coords": {
+      "x": 783,
+      "y": 506,
+      "z": 314
+    }
+  },
+  "src/components/organisms/wired/LiveDecisionBox.jsx": {
+    "name": "LiveDecisionBox.jsx",
+    "path": "src/components/organisms/wired/LiveDecisionBox.jsx",
+    "type": "logic",
+    "size": 3902,
+    "coords": {
+      "x": -291,
+      "y": -897,
+      "z": 344
+    }
+  },
+  "src/components/organisms/wired/DbStatsBox.jsx": {
+    "name": "DbStatsBox.jsx",
+    "path": "src/components/organisms/wired/DbStatsBox.jsx",
+    "type": "logic",
+    "size": 1500,
+    "coords": {
+      "x": -381,
+      "y": 778,
+      "z": 281
+    }
+  },
+  "src/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx": {
+    "name": "OrderFlowImbalanceSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx",
+    "type": "logic",
+    "size": 4260,
+    "coords": {
+      "x": 848,
+      "y": -345,
+      "z": 274
+    }
+  },
+  "src/components/organisms/LiveMarket/CvdSquare.jsx": {
+    "name": "CvdSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/CvdSquare.jsx",
+    "type": "logic",
+    "size": 3108,
+    "coords": {
+      "x": -817,
+      "y": -374,
+      "z": 264
+    }
+  },
+  "src/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx": {
+    "name": "MoonBagTrackerSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx",
+    "type": "logic",
+    "size": 2402,
+    "coords": {
+      "x": 445,
+      "y": 779,
+      "z": 256
+    }
+  },
+  "src/components/organisms/LiveMarket/OcoManagerSquare.jsx": {
+    "name": "OcoManagerSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/OcoManagerSquare.jsx",
+    "type": "logic",
+    "size": 3287,
+    "coords": {
+      "x": 255,
+      "y": -885,
+      "z": 295
+    }
+  },
+  "src/components/organisms/LiveMarket/OrderBookPressureSquare.jsx": {
+    "name": "OrderBookPressureSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/OrderBookPressureSquare.jsx",
+    "type": "logic",
+    "size": 3553,
+    "coords": {
+      "x": -809,
+      "y": 491,
+      "z": 310
+    }
+  },
+  "src/components/organisms/LiveMarket/WhaleAlertSquare.jsx": {
+    "name": "WhaleAlertSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/WhaleAlertSquare.jsx",
+    "type": "logic",
+    "size": 3090,
+    "coords": {
+      "x": 933,
+      "y": 138,
+      "z": 269
+    }
+  },
+  "src/components/organisms/LiveMarket/StrategyContributionSquare.jsx": {
+    "name": "StrategyContributionSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/StrategyContributionSquare.jsx",
+    "type": "logic",
+    "size": 2705,
+    "coords": {
+      "x": -547,
+      "y": -720,
+      "z": 295
+    }
+  },
+  "src/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx": {
+    "name": "GridBotVisualizerSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx",
+    "type": "logic",
+    "size": 4829,
+    "coords": {
+      "x": -134,
+      "y": 938,
+      "z": 277
+    }
+  },
+  "src/components/organisms/LiveMarket/DeltaExposureSquare.jsx": {
+    "name": "DeltaExposureSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/DeltaExposureSquare.jsx",
+    "type": "logic",
+    "size": 2377,
+    "coords": {
+      "x": 662,
+      "y": -649,
+      "z": 319
+    }
+  },
+  "src/components/organisms/LiveMarket/LiquidationHeatmap.jsx": {
+    "name": "LiquidationHeatmap.jsx",
+    "path": "src/components/organisms/LiveMarket/LiquidationHeatmap.jsx",
+    "type": "logic",
+    "size": 2098,
+    "coords": {
+      "x": -903,
+      "y": -36,
+      "z": 308
+    }
+  },
+  "src/components/organisms/LiveMarket/VwapDeviationSquare.jsx": {
+    "name": "VwapDeviationSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/VwapDeviationSquare.jsx",
+    "type": "logic",
+    "size": 2865,
+    "coords": {
+      "x": 651,
+      "y": 619,
+      "z": 246
+    }
+  },
+  "src/components/organisms/LiveMarket/GasFeeTracker.jsx": {
+    "name": "GasFeeTracker.jsx",
+    "path": "src/components/organisms/LiveMarket/GasFeeTracker.jsx",
+    "type": "logic",
+    "size": 1250,
+    "coords": {
+      "x": -15,
+      "y": -951,
+      "z": 291
+    }
+  },
+  "src/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx": {
+    "name": "AvgHoldTimeSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx",
+    "type": "logic",
+    "size": 1406,
+    "coords": {
+      "x": -549,
+      "y": 719,
+      "z": 273
+    }
+  },
+  "src/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx": {
+    "name": "FundingRateTrackerSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx",
+    "type": "logic",
+    "size": 3728,
+    "coords": {
+      "x": 918,
+      "y": -110,
+      "z": 269
+    }
+  },
+  "src/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx": {
+    "name": "ConsecutiveCandleSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx",
+    "type": "logic",
+    "size": 2394,
+    "coords": {
+      "x": -786,
+      "y": -486,
+      "z": 304
+    }
+  },
+  "src/components/organisms/LiveMarket/OrderBookDepthSquare.jsx": {
+    "name": "OrderBookDepthSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/OrderBookDepthSquare.jsx",
+    "type": "logic",
+    "size": 3858,
+    "coords": {
+      "x": 176,
+      "y": 911,
+      "z": 250
+    }
+  },
+  "src/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx": {
+    "name": "CorrelationMatrixSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx",
+    "type": "logic",
+    "size": 3406,
+    "coords": {
+      "x": 493,
+      "y": -859,
+      "z": 260
+    }
+  },
+  "src/components/organisms/LiveMarket/PortfolioRebalance.jsx": {
+    "name": "PortfolioRebalance.jsx",
+    "path": "src/components/organisms/LiveMarket/PortfolioRebalance.jsx",
+    "type": "logic",
+    "size": 1781,
+    "coords": {
+      "x": -839,
+      "y": 311,
+      "z": 297
+    }
+  },
+  "src/components/organisms/LiveMarket/SentimentStream.jsx": {
+    "name": "SentimentStream.jsx",
+    "path": "src/components/organisms/LiveMarket/SentimentStream.jsx",
+    "type": "logic",
+    "size": 1929,
+    "coords": {
+      "x": 859,
+      "y": 389,
+      "z": 257
+    }
+  },
+  "src/components/organisms/LiveMarket/OneClickDeploy.jsx": {
+    "name": "OneClickDeploy.jsx",
+    "path": "src/components/organisms/LiveMarket/OneClickDeploy.jsx",
+    "type": "logic",
+    "size": 1921,
+    "coords": {
+      "x": -333,
+      "y": -822,
+      "z": 268
+    }
+  },
+  "src/components/organisms/LiveMarket/LeaderboardLive.jsx": {
+    "name": "LeaderboardLive.jsx",
+    "path": "src/components/organisms/LiveMarket/LeaderboardLive.jsx",
+    "type": "logic",
+    "size": 2173,
+    "coords": {
+      "x": -339,
+      "y": 912,
+      "z": 260
+    }
+  },
+  "src/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx": {
+    "name": "RealTimeOrderFlowSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx",
+    "type": "logic",
+    "size": 3211,
+    "coords": {
+      "x": 873,
+      "y": -454,
+      "z": 278
+    }
+  },
+  "src/components/organisms/LiveMarket/FomoMeterSquare.jsx": {
+    "name": "FomoMeterSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/FomoMeterSquare.jsx",
+    "type": "logic",
+    "size": 3543,
+    "coords": {
+      "x": -870,
+      "y": -196,
+      "z": 237
+    }
+  },
+  "src/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx": {
+    "name": "SmartMoneyFlowSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx",
+    "type": "logic",
+    "size": 2969,
+    "coords": {
+      "x": 534,
+      "y": 741,
+      "z": 294
+    }
+  },
+  "src/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx": {
+    "name": "EmpireMoodRingSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx",
+    "type": "logic",
+    "size": 2878,
+    "coords": {
+      "x": 184,
+      "y": -943,
+      "z": 291
+    }
+  },
+  "src/components/organisms/LiveMarket/PaperTradingMirror.jsx": {
+    "name": "PaperTradingMirror.jsx",
+    "path": "src/components/organisms/LiveMarket/PaperTradingMirror.jsx",
+    "type": "logic",
+    "size": 2362,
+    "coords": {
+      "x": -755,
+      "y": 642,
+      "z": 252
+    }
+  },
+  "src/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx": {
+    "name": "PositionAgeHeatmapSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2622,
+    "coords": {
+      "x": 927,
+      "y": 41,
+      "z": 246
+    }
+  },
+  "src/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx": {
+    "name": "ExchangeLatencyRadarSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx",
+    "type": "logic",
+    "size": 4245,
+    "coords": {
+      "x": -706,
+      "y": -722,
+      "z": 234
+    }
+  },
+  "src/components/organisms/LiveMarket/RollingSharpeSquare.jsx": {
+    "name": "RollingSharpeSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/RollingSharpeSquare.jsx",
+    "type": "logic",
+    "size": 2162,
+    "coords": {
+      "x": 45,
+      "y": 898,
+      "z": 223
+    }
+  },
+  "src/components/organisms/LiveMarket/AutoRebalanceSquare.jsx": {
+    "name": "AutoRebalanceSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/AutoRebalanceSquare.jsx",
+    "type": "logic",
+    "size": 2965,
+    "coords": {
+      "x": 578,
+      "y": -681,
+      "z": 290
+    }
+  },
+  "src/components/organisms/LiveMarket/PnlSplitSquare.jsx": {
+    "name": "PnlSplitSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/PnlSplitSquare.jsx",
+    "type": "logic",
+    "size": 2538,
+    "coords": {
+      "x": -983,
+      "y": 86,
+      "z": 263
+    }
+  },
+  "src/components/organisms/LiveMarket/IcebergDetectorSquare.jsx": {
+    "name": "IcebergDetectorSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/IcebergDetectorSquare.jsx",
+    "type": "logic",
+    "size": 2823,
+    "coords": {
+      "x": 797,
+      "y": 579,
+      "z": 245
+    }
+  },
+  "src/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx": {
+    "name": "LiquidationHeatmapSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2750,
+    "coords": {
+      "x": -213,
+      "y": -973,
+      "z": 293
+    }
+  },
+  "src/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx": {
+    "name": "ActiveOrdersLadderSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx",
+    "type": "logic",
+    "size": 2290,
+    "coords": {
+      "x": -495,
+      "y": 860,
+      "z": 285
+    }
+  },
+  "src/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx": {
+    "name": "ProfitFactorTimelineSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx",
+    "type": "logic",
+    "size": 2950,
+    "coords": {
+      "x": 866,
+      "y": -291,
+      "z": 285
+    }
+  },
+  "src/components/organisms/LiveMarket/SlippageMonitorSquare.jsx": {
+    "name": "SlippageMonitorSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/SlippageMonitorSquare.jsx",
+    "type": "logic",
+    "size": 3931,
+    "coords": {
+      "x": -888,
+      "y": -393,
+      "z": 220
+    }
+  },
+  "src/components/organisms/LiveMarket/DailyLossLimitSquare.jsx": {
+    "name": "DailyLossLimitSquare.jsx",
+    "path": "src/components/organisms/LiveMarket/DailyLossLimitSquare.jsx",
+    "type": "logic",
+    "size": 3043,
+    "coords": {
+      "x": 362,
+      "y": 847,
+      "z": 212
+    }
+  },
+  "src/components/organisms/LiveMarket/FundingRateAlert.jsx": {
+    "name": "FundingRateAlert.jsx",
+    "path": "src/components/organisms/LiveMarket/FundingRateAlert.jsx",
+    "type": "logic",
+    "size": 1862,
+    "coords": {
+      "x": 364,
+      "y": -916,
+      "z": 193
+    }
+  },
+  "src/components/organisms/LiveMarket/WhaleWatcher.jsx": {
+    "name": "WhaleWatcher.jsx",
+    "path": "src/components/organisms/LiveMarket/WhaleWatcher.jsx",
+    "type": "logic",
+    "size": 1930,
+    "coords": {
+      "x": -876,
+      "y": 396,
+      "z": 255
+    }
+  },
+  "src/components/organisms/components/StatCard.tsx": {
+    "name": "StatCard.tsx",
+    "path": "src/components/organisms/components/StatCard.tsx",
+    "type": "logic",
+    "size": 791,
+    "coords": {
+      "x": 920,
+      "y": 273,
+      "z": 203
+    }
+  },
+  "src/components/organisms/components/OrderForm.tsx": {
+    "name": "OrderForm.tsx",
+    "path": "src/components/organisms/components/OrderForm.tsx",
+    "type": "logic",
+    "size": 2051,
+    "coords": {
+      "x": -480,
+      "y": -796,
+      "z": 257
+    }
+  },
+  "src/components/organisms/components/OrderBook.tsx": {
+    "name": "OrderBook.tsx",
+    "path": "src/components/organisms/components/OrderBook.tsx",
+    "type": "logic",
+    "size": 1814,
+    "coords": {
+      "x": -163,
+      "y": 986,
+      "z": 196
+    }
+  },
+  "src/components/organisms/components/Watchlist.tsx": {
+    "name": "Watchlist.tsx",
+    "path": "src/components/organisms/components/Watchlist.tsx",
+    "type": "logic",
+    "size": 2220,
+    "coords": {
+      "x": 803,
+      "y": -583,
+      "z": 275
+    }
+  },
+  "src/components/organisms/components/ChartPanel.tsx": {
+    "name": "ChartPanel.tsx",
+    "path": "src/components/organisms/components/ChartPanel.tsx",
+    "type": "logic",
+    "size": 1730,
+    "coords": {
+      "x": -978,
+      "y": -66,
+      "z": 231
+    }
+  },
+  "src/components/organisms/components/DecisionStream.tsx": {
+    "name": "DecisionStream.tsx",
+    "path": "src/components/organisms/components/DecisionStream.tsx",
+    "type": "logic",
+    "size": 6262,
+    "coords": {
+      "x": 677,
+      "y": 694,
+      "z": 209
+    }
+  },
+  "src/components/NetworkCommander/main.jsx": {
+    "name": "main.jsx",
+    "path": "src/components/NetworkCommander/main.jsx",
+    "type": "logic",
+    "size": 229,
+    "coords": {
+      "x": 41,
+      "y": -1013,
+      "z": 183
+    }
+  },
+  "src/components/NetworkCommander/NetworkCommanderTab.jsx": {
+    "name": "NetworkCommanderTab.jsx",
+    "path": "src/components/NetworkCommander/NetworkCommanderTab.jsx",
+    "type": "logic",
+    "size": 6475,
+    "coords": {
+      "x": -628,
+      "y": 742,
+      "z": 268
+    }
+  },
+  "src/components/NetworkCommander/App.css": {
+    "name": "App.css",
+    "path": "src/components/NetworkCommander/App.css",
+    "type": "code",
+    "size": 606,
+    "coords": {
+      "x": 915,
+      "y": -38,
+      "z": 189
+    }
+  },
+  "src/components/NetworkCommander/index.css": {
+    "name": "index.css",
+    "path": "src/components/NetworkCommander/index.css",
+    "type": "code",
+    "size": 425,
+    "coords": {
+      "x": -789,
+      "y": -571,
+      "z": 186
+    }
+  },
+  "src/components/NetworkCommander/lib/utils.js": {
+    "name": "utils.js",
+    "path": "src/components/NetworkCommander/lib/utils.js",
+    "type": "logic",
+    "size": 140,
+    "coords": {
+      "x": 198,
+      "y": 910,
+      "z": 255
+    }
+  },
+  "src/components/NetworkCommander/lib/api.js": {
+    "name": "api.js",
+    "path": "src/components/NetworkCommander/lib/api.js",
+    "type": "logic",
+    "size": 745,
+    "coords": {
+      "x": 560,
+      "y": -805,
+      "z": 176
+    }
+  },
+  "src/components/NetworkCommander/components/FileTransfer.jsx": {
+    "name": "FileTransfer.jsx",
+    "path": "src/components/NetworkCommander/components/FileTransfer.jsx",
+    "type": "logic",
+    "size": 3113,
+    "coords": {
+      "x": -917,
+      "y": 268,
+      "z": 218
+    }
+  },
+  "src/components/NetworkCommander/components/Toolbox.jsx": {
+    "name": "Toolbox.jsx",
+    "path": "src/components/NetworkCommander/components/Toolbox.jsx",
+    "type": "logic",
+    "size": 4022,
+    "coords": {
+      "x": 809,
+      "y": 465,
+      "z": 202
+    }
+  },
+  "src/components/NetworkCommander/components/ConnectivityHub.jsx": {
+    "name": "ConnectivityHub.jsx",
+    "path": "src/components/NetworkCommander/components/ConnectivityHub.jsx",
+    "type": "logic",
+    "size": 8427,
+    "coords": {
+      "x": -279,
+      "y": -875,
+      "z": 181
+    }
+  },
+  "src/components/NetworkCommander/components/RemoteClient.jsx": {
+    "name": "RemoteClient.jsx",
+    "path": "src/components/NetworkCommander/components/RemoteClient.jsx",
+    "type": "logic",
+    "size": 6255,
+    "coords": {
+      "x": -429,
+      "y": 855,
+      "z": 257
+    }
+  },
+  "src/components/NetworkCommander/components/AgentAccess.jsx": {
+    "name": "AgentAccess.jsx",
+    "path": "src/components/NetworkCommander/components/AgentAccess.jsx",
+    "type": "logic",
+    "size": 9242,
+    "coords": {
+      "x": 853,
+      "y": -380,
+      "z": 235
+    }
+  },
+  "src/components/NetworkCommander/components/SecurityDashboard.jsx": {
+    "name": "SecurityDashboard.jsx",
+    "path": "src/components/NetworkCommander/components/SecurityDashboard.jsx",
+    "type": "logic",
+    "size": 12083,
+    "coords": {
+      "x": -904,
+      "y": -280,
+      "z": 197
+    }
+  },
+  "src/components/NetworkCommander/components/PortManager.jsx": {
+    "name": "PortManager.jsx",
+    "path": "src/components/NetworkCommander/components/PortManager.jsx",
+    "type": "logic",
+    "size": 3885,
+    "coords": {
+      "x": 503,
+      "y": 827,
+      "z": 214
+    }
+  },
+  "src/components/NetworkCommander/components/ui/Button.jsx": {
+    "name": "Button.jsx",
+    "path": "src/components/NetworkCommander/components/ui/Button.jsx",
+    "type": "logic",
+    "size": 1514,
+    "coords": {
+      "x": 188,
+      "y": -924,
+      "z": 186
+    }
+  },
+  "src/components/NetworkCommander/components/ui/Card.jsx": {
+    "name": "Card.jsx",
+    "path": "src/components/NetworkCommander/components/ui/Card.jsx",
+    "type": "logic",
+    "size": 1016,
+    "coords": {
+      "x": -847,
+      "y": 590,
+      "z": 189
+    }
+  },
+  "src/components/NetworkCommander/components/ui/Input.jsx": {
+    "name": "Input.jsx",
+    "path": "src/components/NetworkCommander/components/ui/Input.jsx",
+    "type": "logic",
+    "size": 749,
+    "coords": {
+      "x": 1000,
+      "y": 151,
+      "z": 241
+    }
+  },
+  "src/components/NetworkCommander/components/ui/Badge.jsx": {
+    "name": "Badge.jsx",
+    "path": "src/components/NetworkCommander/components/ui/Badge.jsx",
+    "type": "logic",
+    "size": 954,
+    "coords": {
+      "x": -640,
+      "y": -720,
+      "z": 168
+    }
+  },
+  "src/components/RenderSphere/RenderSphereTab.jsx": {
+    "name": "RenderSphereTab.jsx",
+    "path": "src/components/RenderSphere/RenderSphereTab.jsx",
+    "type": "logic",
+    "size": 0,
+    "coords": {
+      "x": -68,
+      "y": 971,
+      "z": 205
+    }
+  },
+  "src/components/RenderSphere/config/api.js": {
+    "name": "api.js",
+    "path": "src/components/RenderSphere/config/api.js",
+    "type": "logic",
+    "size": 466,
+    "coords": {
+      "x": 674,
+      "y": -702,
+      "z": 205
+    }
+  },
+  "src/components/RenderSphere/system/State.js": {
+    "name": "State.js",
+    "path": "src/components/RenderSphere/system/State.js",
+    "type": "logic",
+    "size": 2602,
+    "coords": {
+      "x": -1022,
+      "y": 23,
+      "z": 216
+    }
+  },
+  "src/components/RenderSphere/components/EmpireIDE.jsx": {
+    "name": "EmpireIDE.jsx",
+    "path": "src/components/RenderSphere/components/EmpireIDE.jsx",
+    "type": "logic",
+    "size": 18005,
+    "coords": {
+      "x": 719,
+      "y": 690,
+      "z": 179
+    }
+  },
+  "src/components/RenderSphere/components/organisms/MirrorReflectionSquare.jsx": {
+    "name": "MirrorReflectionSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/MirrorReflectionSquare.jsx",
+    "type": "logic",
+    "size": 2448,
+    "coords": {
+      "x": -88,
+      "y": -934,
+      "z": 196
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BacktestRecentTrades.jsx": {
+    "name": "BacktestRecentTrades.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BacktestRecentTrades.jsx",
+    "type": "logic",
+    "size": 1923,
+    "coords": {
+      "x": -587,
+      "y": 826,
+      "z": 142
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BotControl.jsx": {
+    "name": "BotControl.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BotControl.jsx",
+    "type": "logic",
+    "size": 1600,
+    "coords": {
+      "x": 1013,
+      "y": -162,
+      "z": 229
+    }
+  },
+  "src/components/RenderSphere/components/organisms/StrategySwitcherSquare.jsx": {
+    "name": "StrategySwitcherSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/StrategySwitcherSquare.jsx",
+    "type": "logic",
+    "size": 4595,
+    "coords": {
+      "x": -863,
+      "y": -464,
+      "z": 165
+    }
+  },
+  "src/components/RenderSphere/components/organisms/ActiveBots.jsx": {
+    "name": "ActiveBots.jsx",
+    "path": "src/components/RenderSphere/components/organisms/ActiveBots.jsx",
+    "type": "logic",
+    "size": 3514,
+    "coords": {
+      "x": 302,
+      "y": 981,
+      "z": 171
+    }
+  },
+  "src/components/RenderSphere/components/organisms/StrategyParameters.jsx": {
+    "name": "StrategyParameters.jsx",
+    "path": "src/components/RenderSphere/components/organisms/StrategyParameters.jsx",
+    "type": "logic",
+    "size": 4788,
+    "coords": {
+      "x": 383,
+      "y": -857,
+      "z": 193
+    }
+  },
+  "src/components/RenderSphere/components/organisms/OrderEntry.jsx": {
+    "name": "OrderEntry.jsx",
+    "path": "src/components/RenderSphere/components/organisms/OrderEntry.jsx",
+    "type": "logic",
+    "size": 6358,
+    "coords": {
+      "x": -896,
+      "y": 407,
+      "z": 212
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveChart.jsx": {
+    "name": "LiveChart.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveChart.jsx",
+    "type": "logic",
+    "size": 5198,
+    "coords": {
+      "x": 901,
+      "y": 301,
+      "z": 140
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BacktestPerformance.jsx": {
+    "name": "BacktestPerformance.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BacktestPerformance.jsx",
+    "type": "logic",
+    "size": 2288,
+    "coords": {
+      "x": -480,
+      "y": -888,
+      "z": 134
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BacktestAllocation.jsx": {
+    "name": "BacktestAllocation.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BacktestAllocation.jsx",
+    "type": "logic",
+    "size": 1319,
+    "coords": {
+      "x": -310,
+      "y": 957,
+      "z": 136
+    }
+  },
+  "src/components/RenderSphere/components/organisms/FantasyFinanceBox.jsx": {
+    "name": "FantasyFinanceBox.jsx",
+    "path": "src/components/RenderSphere/components/organisms/FantasyFinanceBox.jsx",
+    "type": "logic",
+    "size": 22996,
+    "coords": {
+      "x": 864,
+      "y": -509,
+      "z": 216
+    }
+  },
+  "src/components/RenderSphere/components/organisms/NavBar.jsx": {
+    "name": "NavBar.jsx",
+    "path": "src/components/RenderSphere/components/organisms/NavBar.jsx",
+    "type": "logic",
+    "size": 1975,
+    "coords": {
+      "x": -965,
+      "y": -175,
+      "z": 165
+    }
+  },
+  "src/components/RenderSphere/components/organisms/README.md": {
+    "name": "README.md",
+    "path": "src/components/RenderSphere/components/organisms/README.md",
+    "type": "data",
+    "size": 875,
+    "coords": {
+      "x": 561,
+      "y": 756,
+      "z": 141
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LeverageHeatSquare.jsx": {
+    "name": "LeverageHeatSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LeverageHeatSquare.jsx",
+    "type": "logic",
+    "size": 6065,
+    "coords": {
+      "x": 108,
+      "y": -1015,
+      "z": 207
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BotUptimeSquare.jsx": {
+    "name": "BotUptimeSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BotUptimeSquare.jsx",
+    "type": "logic",
+    "size": 4798,
+    "coords": {
+      "x": -735,
+      "y": 715,
+      "z": 112
+    }
+  },
+  "src/components/RenderSphere/components/organisms/WinRateByHourSquare.jsx": {
+    "name": "WinRateByHourSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/WinRateByHourSquare.jsx",
+    "type": "logic",
+    "size": 4899,
+    "coords": {
+      "x": 988,
+      "y": -22,
+      "z": 177
+    }
+  },
+  "src/components/RenderSphere/components/organisms/RealTimePnL.jsx": {
+    "name": "RealTimePnL.jsx",
+    "path": "src/components/RenderSphere/components/organisms/RealTimePnL.jsx",
+    "type": "logic",
+    "size": 4737,
+    "coords": {
+      "x": -768,
+      "y": -662,
+      "z": 186
+    }
+  },
+  "src/components/RenderSphere/components/organisms/TradeHistory.jsx": {
+    "name": "TradeHistory.jsx",
+    "path": "src/components/RenderSphere/components/organisms/TradeHistory.jsx",
+    "type": "logic",
+    "size": 4981,
+    "coords": {
+      "x": 72,
+      "y": 1005,
+      "z": 143
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BacktestStrategyParameters.jsx": {
+    "name": "BacktestStrategyParameters.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BacktestStrategyParameters.jsx",
+    "type": "logic",
+    "size": 5711,
+    "coords": {
+      "x": 650,
+      "y": -739,
+      "z": 188
+    }
+  },
+  "src/components/RenderSphere/components/organisms/SeasonalitySquare.jsx": {
+    "name": "SeasonalitySquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/SeasonalitySquare.jsx",
+    "type": "logic",
+    "size": 3009,
+    "coords": {
+      "x": -974,
+      "y": 169,
+      "z": 130
+    }
+  },
+  "src/components/RenderSphere/components/organisms/RSIThresholdSlider.jsx": {
+    "name": "RSIThresholdSlider.jsx",
+    "path": "src/components/RenderSphere/components/organisms/RSIThresholdSlider.jsx",
+    "type": "logic",
+    "size": 940,
+    "coords": {
+      "x": 798,
+      "y": 499,
+      "z": 121
+    }
+  },
+  "src/components/RenderSphere/components/organisms/DataStream.jsx": {
+    "name": "DataStream.jsx",
+    "path": "src/components/RenderSphere/components/organisms/DataStream.jsx",
+    "type": "logic",
+    "size": 3872,
+    "coords": {
+      "x": -230,
+      "y": -1014,
+      "z": 166
+    }
+  },
+  "src/components/RenderSphere/components/organisms/Gemini_Strategies.jsx": {
+    "name": "Gemini_Strategies.jsx",
+    "path": "src/components/RenderSphere/components/organisms/Gemini_Strategies.jsx",
+    "type": "logic",
+    "size": 5286,
+    "coords": {
+      "x": -461,
+      "y": 852,
+      "z": 131
+    }
+  },
+  "src/components/RenderSphere/components/organisms/BacktestKeyMetrics.jsx": {
+    "name": "BacktestKeyMetrics.jsx",
+    "path": "src/components/RenderSphere/components/organisms/BacktestKeyMetrics.jsx",
+    "type": "logic",
+    "size": 1421,
+    "coords": {
+      "x": 900,
+      "y": -299,
+      "z": 113
+    }
+  },
+  "src/components/RenderSphere/components/organisms/WARNING_LEGO_ZONE.md": {
+    "name": "WARNING_LEGO_ZONE.md",
+    "path": "src/components/RenderSphere/components/organisms/WARNING_LEGO_ZONE.md",
+    "type": "data",
+    "size": 435,
+    "coords": {
+      "x": -924,
+      "y": -351,
+      "z": 129
+    }
+  },
+  "src/components/RenderSphere/components/organisms/EmpireBox.jsx": {
+    "name": "EmpireBox.jsx",
+    "path": "src/components/RenderSphere/components/organisms/EmpireBox.jsx",
+    "type": "logic",
+    "size": 3983,
+    "coords": {
+      "x": 373,
+      "y": 939,
+      "z": 163
+    }
+  },
+  "src/components/RenderSphere/components/organisms/GenericTile.jsx": {
+    "name": "GenericTile.jsx",
+    "path": "src/components/RenderSphere/components/organisms/GenericTile.jsx",
+    "type": "logic",
+    "size": 365,
+    "coords": {
+      "x": 266,
+      "y": -968,
+      "z": 172
+    }
+  },
+  "src/components/RenderSphere/components/organisms/TaxLotCalculatorSquare.jsx": {
+    "name": "TaxLotCalculatorSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/TaxLotCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 9491,
+    "coords": {
+      "x": -893,
+      "y": 496,
+      "z": 108
+    }
+  },
+  "src/components/RenderSphere/components/organisms/GrokTerminal.jsx": {
+    "name": "GrokTerminal.jsx",
+    "path": "src/components/RenderSphere/components/organisms/GrokTerminal.jsx",
+    "type": "logic",
+    "size": 9936,
+    "coords": {
+      "x": 1027,
+      "y": 220,
+      "z": 100
+    }
+  },
+  "src/components/RenderSphere/components/organisms/KillSwitchSquare.jsx": {
+    "name": "KillSwitchSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/KillSwitchSquare.jsx",
+    "type": "logic",
+    "size": 2670,
+    "coords": {
+      "x": -559,
+      "y": -802,
+      "z": 180
+    }
+  },
+  "src/components/RenderSphere/components/organisms/ProfitCalculatorSquare.jsx": {
+    "name": "ProfitCalculatorSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/ProfitCalculatorSquare.jsx",
+    "type": "logic",
+    "size": 7926,
+    "coords": {
+      "x": -147,
+      "y": 973,
+      "z": 80
+    }
+  },
+  "src/components/RenderSphere/components/organisms/DrawdownChartSquare.jsx": {
+    "name": "DrawdownChartSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/DrawdownChartSquare.jsx",
+    "type": "logic",
+    "size": 2838,
+    "coords": {
+      "x": 788,
+      "y": -596,
+      "z": 116
+    }
+  },
+  "src/components/RenderSphere/components/organisms/PaperVsLivePnLSquare.jsx": {
+    "name": "PaperVsLivePnLSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/PaperVsLivePnLSquare.jsx",
+    "type": "logic",
+    "size": 4149,
+    "coords": {
+      "x": -995,
+      "y": -67,
+      "z": 107
+    }
+  },
+  "src/components/RenderSphere/components/organisms/StrategyLab.jsx": {
+    "name": "StrategyLab.jsx",
+    "path": "src/components/RenderSphere/components/organisms/StrategyLab.jsx",
+    "type": "logic",
+    "size": 17384,
+    "coords": {
+      "x": 733,
+      "y": 744,
+      "z": 113
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LegionGrid.jsx": {
+    "name": "LegionGrid.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LegionGrid.jsx",
+    "type": "logic",
+    "size": 15675,
+    "coords": {
+      "x": -63,
+      "y": -992,
+      "z": 117
+    }
+  },
+  "src/components/RenderSphere/components/organisms/Header.jsx": {
+    "name": "Header.jsx",
+    "path": "src/components/RenderSphere/components/organisms/Header.jsx",
+    "type": "logic",
+    "size": 193,
+    "coords": {
+      "x": -687,
+      "y": 750,
+      "z": 132
+    }
+  },
+  "src/components/RenderSphere/components/organisms/TradeEntry.jsx": {
+    "name": "TradeEntry.jsx",
+    "path": "src/components/RenderSphere/components/organisms/TradeEntry.jsx",
+    "type": "logic",
+    "size": 1692,
+    "coords": {
+      "x": 982,
+      "y": -139,
+      "z": 71
+    }
+  },
+  "src/components/RenderSphere/components/organisms/ServerStatus.jsx": {
+    "name": "ServerStatus.jsx",
+    "path": "src/components/RenderSphere/components/organisms/ServerStatus.jsx",
+    "type": "logic",
+    "size": 5618,
+    "coords": {
+      "x": -795,
+      "y": -588,
+      "z": 139
+    }
+  },
+  "src/components/RenderSphere/components/organisms/Grid2000.jsx": {
+    "name": "Grid2000.jsx",
+    "path": "src/components/RenderSphere/components/organisms/Grid2000.jsx",
+    "type": "logic",
+    "size": 1618,
+    "coords": {
+      "x": 219,
+      "y": 970,
+      "z": 94
+    }
+  },
+  "src/components/RenderSphere/components/organisms/MarketSentinel.jsx": {
+    "name": "MarketSentinel.jsx",
+    "path": "src/components/RenderSphere/components/organisms/MarketSentinel.jsx",
+    "type": "logic",
+    "size": 5544,
+    "coords": {
+      "x": 471,
+      "y": -902,
+      "z": 122
+    }
+  },
+  "src/components/RenderSphere/components/organisms/Swarm/BotSwarmControl.jsx": {
+    "name": "BotSwarmControl.jsx",
+    "path": "src/components/RenderSphere/components/organisms/Swarm/BotSwarmControl.jsx",
+    "type": "logic",
+    "size": 4997,
+    "coords": {
+      "x": -927,
+      "y": 253,
+      "z": 112
+    }
+  },
+  "src/components/RenderSphere/components/organisms/Swarm/CommandCenter.jsx": {
+    "name": "CommandCenter.jsx",
+    "path": "src/components/RenderSphere/components/organisms/Swarm/CommandCenter.jsx",
+    "type": "logic",
+    "size": 2554,
+    "coords": {
+      "x": 891,
+      "y": 390,
+      "z": 136
+    }
+  },
+  "src/components/RenderSphere/components/organisms/atoms/MarketAtoms.jsx": {
+    "name": "MarketAtoms.jsx",
+    "path": "src/components/RenderSphere/components/organisms/atoms/MarketAtoms.jsx",
+    "type": "logic",
+    "size": 4486,
+    "coords": {
+      "x": -408,
+      "y": -972,
+      "z": 111
+    }
+  },
+  "src/components/RenderSphere/components/organisms/wired/LiveDecisionBox.jsx": {
+    "name": "LiveDecisionBox.jsx",
+    "path": "src/components/RenderSphere/components/organisms/wired/LiveDecisionBox.jsx",
+    "type": "logic",
+    "size": 3902,
+    "coords": {
+      "x": -316,
+      "y": 956,
+      "z": 127
+    }
+  },
+  "src/components/RenderSphere/components/organisms/wired/DbStatsBox.jsx": {
+    "name": "DbStatsBox.jsx",
+    "path": "src/components/RenderSphere/components/organisms/wired/DbStatsBox.jsx",
+    "type": "logic",
+    "size": 1500,
+    "coords": {
+      "x": 938,
+      "y": -471,
+      "z": 143
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx": {
+    "name": "OrderFlowImbalanceSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/OrderFlowImbalanceSquare.jsx",
+    "type": "logic",
+    "size": 4260,
+    "coords": {
+      "x": -963,
+      "y": -231,
+      "z": 144
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/CvdSquare.jsx": {
+    "name": "CvdSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/CvdSquare.jsx",
+    "type": "logic",
+    "size": 3108,
+    "coords": {
+      "x": 528,
+      "y": 849,
+      "z": 105
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx": {
+    "name": "MoonBagTrackerSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/MoonBagTrackerSquare.jsx",
+    "type": "logic",
+    "size": 2402,
+    "coords": {
+      "x": 215,
+      "y": -1018,
+      "z": 98
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/OcoManagerSquare.jsx": {
+    "name": "OcoManagerSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/OcoManagerSquare.jsx",
+    "type": "logic",
+    "size": 3287,
+    "coords": {
+      "x": -835,
+      "y": 575,
+      "z": 88
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/OrderBookPressureSquare.jsx": {
+    "name": "OrderBookPressureSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/OrderBookPressureSquare.jsx",
+    "type": "logic",
+    "size": 3553,
+    "coords": {
+      "x": 1008,
+      "y": 60,
+      "z": 83
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/WhaleAlertSquare.jsx": {
+    "name": "WhaleAlertSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/WhaleAlertSquare.jsx",
+    "type": "logic",
+    "size": 3090,
+    "coords": {
+      "x": -710,
+      "y": -717,
+      "z": 55
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/StrategyContributionSquare.jsx": {
+    "name": "StrategyContributionSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/StrategyContributionSquare.jsx",
+    "type": "logic",
+    "size": 2705,
+    "coords": {
+      "x": 27,
+      "y": 1003,
+      "z": 110
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx": {
+    "name": "GridBotVisualizerSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/GridBotVisualizerSquare.jsx",
+    "type": "logic",
+    "size": 4829,
+    "coords": {
+      "x": 706,
+      "y": -765,
+      "z": 47
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/DeltaExposureSquare.jsx": {
+    "name": "DeltaExposureSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/DeltaExposureSquare.jsx",
+    "type": "logic",
+    "size": 2377,
+    "coords": {
+      "x": -1038,
+      "y": 119,
+      "z": 123
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/LiquidationHeatmap.jsx": {
+    "name": "LiquidationHeatmap.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/LiquidationHeatmap.jsx",
+    "type": "logic",
+    "size": 2098,
+    "coords": {
+      "x": 831,
+      "y": 663,
+      "z": 93
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/VwapDeviationSquare.jsx": {
+    "name": "VwapDeviationSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/VwapDeviationSquare.jsx",
+    "type": "logic",
+    "size": 2865,
+    "coords": {
+      "x": -185,
+      "y": -1014,
+      "z": 57
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/GasFeeTracker.jsx": {
+    "name": "GasFeeTracker.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/GasFeeTracker.jsx",
+    "type": "logic",
+    "size": 1250,
+    "coords": {
+      "x": -591,
+      "y": 862,
+      "z": 109
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx": {
+    "name": "AvgHoldTimeSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/AvgHoldTimeSquare.jsx",
+    "type": "logic",
+    "size": 1406,
+    "coords": {
+      "x": 1042,
+      "y": -270,
+      "z": 123
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx": {
+    "name": "FundingRateTrackerSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/FundingRateTrackerSquare.jsx",
+    "type": "logic",
+    "size": 3728,
+    "coords": {
+      "x": -884,
+      "y": -488,
+      "z": 68
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx": {
+    "name": "ConsecutiveCandleSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/ConsecutiveCandleSquare.jsx",
+    "type": "logic",
+    "size": 2394,
+    "coords": {
+      "x": 310,
+      "y": 975,
+      "z": 43
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/OrderBookDepthSquare.jsx": {
+    "name": "OrderBookDepthSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/OrderBookDepthSquare.jsx",
+    "type": "logic",
+    "size": 3858,
+    "coords": {
+      "x": 425,
+      "y": -985,
+      "z": 54
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx": {
+    "name": "CorrelationMatrixSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/CorrelationMatrixSquare.jsx",
+    "type": "logic",
+    "size": 3406,
+    "coords": {
+      "x": -970,
+      "y": 437,
+      "z": 37
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/PortfolioRebalance.jsx": {
+    "name": "PortfolioRebalance.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/PortfolioRebalance.jsx",
+    "type": "logic",
+    "size": 1781,
+    "coords": {
+      "x": 1025,
+      "y": 263,
+      "z": 31
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/SentimentStream.jsx": {
+    "name": "SentimentStream.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/SentimentStream.jsx",
+    "type": "logic",
+    "size": 1929,
+    "coords": {
+      "x": -500,
+      "y": -848,
+      "z": 49
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/OneClickDeploy.jsx": {
+    "name": "OneClickDeploy.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/OneClickDeploy.jsx",
+    "type": "logic",
+    "size": 1921,
+    "coords": {
+      "x": -208,
+      "y": 1025,
+      "z": 46
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/LeaderboardLive.jsx": {
+    "name": "LeaderboardLive.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/LeaderboardLive.jsx",
+    "type": "logic",
+    "size": 2173,
+    "coords": {
+      "x": 826,
+      "y": -559,
+      "z": 18
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx": {
+    "name": "RealTimeOrderFlowSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/RealTimeOrderFlowSquare.jsx",
+    "type": "logic",
+    "size": 3211,
+    "coords": {
+      "x": -1057,
+      "y": -182,
+      "z": 72
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/FomoMeterSquare.jsx": {
+    "name": "FomoMeterSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/FomoMeterSquare.jsx",
+    "type": "logic",
+    "size": 3543,
+    "coords": {
+      "x": 688,
+      "y": 748,
+      "z": 87
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx": {
+    "name": "SmartMoneyFlowSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/SmartMoneyFlowSquare.jsx",
+    "type": "logic",
+    "size": 2969,
+    "coords": {
+      "x": 86,
+      "y": -1062,
+      "z": 88
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx": {
+    "name": "EmpireMoodRingSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/EmpireMoodRingSquare.jsx",
+    "type": "logic",
+    "size": 2878,
+    "coords": {
+      "x": -683,
+      "y": 711,
+      "z": 79
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/PaperTradingMirror.jsx": {
+    "name": "PaperTradingMirror.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/PaperTradingMirror.jsx",
+    "type": "logic",
+    "size": 2362,
+    "coords": {
+      "x": 1023,
+      "y": -14,
+      "z": 51
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx": {
+    "name": "PositionAgeHeatmapSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/PositionAgeHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2622,
+    "coords": {
+      "x": -775,
+      "y": -714,
+      "z": 64
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx": {
+    "name": "ExchangeLatencyRadarSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/ExchangeLatencyRadarSquare.jsx",
+    "type": "logic",
+    "size": 4245,
+    "coords": {
+      "x": 107,
+      "y": 1014,
+      "z": 47
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/RollingSharpeSquare.jsx": {
+    "name": "RollingSharpeSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/RollingSharpeSquare.jsx",
+    "type": "logic",
+    "size": 2162,
+    "coords": {
+      "x": 547,
+      "y": -839,
+      "z": 0
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/AutoRebalanceSquare.jsx": {
+    "name": "AutoRebalanceSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/AutoRebalanceSquare.jsx",
+    "type": "logic",
+    "size": 2965,
+    "coords": {
+      "x": -973,
+      "y": 252,
+      "z": 10
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/PnlSplitSquare.jsx": {
+    "name": "PnlSplitSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/PnlSplitSquare.jsx",
+    "type": "logic",
+    "size": 2538,
+    "coords": {
+      "x": 902,
+      "y": 490,
+      "z": 46
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/IcebergDetectorSquare.jsx": {
+    "name": "IcebergDetectorSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/IcebergDetectorSquare.jsx",
+    "type": "logic",
+    "size": 2823,
+    "coords": {
+      "x": -306,
+      "y": -954,
+      "z": 31
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx": {
+    "name": "LiquidationHeatmapSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/LiquidationHeatmapSquare.jsx",
+    "type": "logic",
+    "size": 2750,
+    "coords": {
+      "x": -437,
+      "y": 924,
+      "z": -7
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx": {
+    "name": "ActiveOrdersLadderSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/ActiveOrdersLadderSquare.jsx",
+    "type": "logic",
+    "size": 2290,
+    "coords": {
+      "x": 917,
+      "y": -398,
+      "z": 65
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx": {
+    "name": "ProfitFactorTimelineSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/ProfitFactorTimelineSquare.jsx",
+    "type": "logic",
+    "size": 2950,
+    "coords": {
+      "x": -994,
+      "y": -339,
+      "z": -19
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/SlippageMonitorSquare.jsx": {
+    "name": "SlippageMonitorSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/SlippageMonitorSquare.jsx",
+    "type": "logic",
+    "size": 3931,
+    "coords": {
+      "x": 524,
+      "y": 891,
+      "z": 64
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/DailyLossLimitSquare.jsx": {
+    "name": "DailyLossLimitSquare.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/DailyLossLimitSquare.jsx",
+    "type": "logic",
+    "size": 3043,
+    "coords": {
+      "x": 220,
+      "y": -969,
+      "z": 12
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/FundingRateAlert.jsx": {
+    "name": "FundingRateAlert.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/FundingRateAlert.jsx",
+    "type": "logic",
+    "size": 1862,
+    "coords": {
+      "x": -871,
+      "y": 546,
+      "z": 29
+    }
+  },
+  "src/components/RenderSphere/components/organisms/LiveMarket/WhaleWatcher.jsx": {
+    "name": "WhaleWatcher.jsx",
+    "path": "src/components/RenderSphere/components/organisms/LiveMarket/WhaleWatcher.jsx",
+    "type": "logic",
+    "size": 1930,
+    "coords": {
+      "x": 1064,
+      "y": 186,
+      "z": 65
+    }
+  },
+  "src/components/RenderSphere/components/organisms/components/StatCard.tsx": {
+    "name": "StatCard.tsx",
+    "path": "src/components/RenderSphere/components/organisms/components/StatCard.tsx",
+    "type": "logic",
+    "size": 791,
+    "coords": {
+      "x": -665,
+      "y": -855,
+      "z": 15
+    }
+  },
+  "src/components/RenderSphere/components/organisms/components/OrderForm.tsx": {
+    "name": "OrderForm.tsx",
+    "path": "src/components/RenderSphere/components/organisms/components/OrderForm.tsx",
+    "type": "logic",
+    "size": 2051,
+    "coords": {
+      "x": -90,
+      "y": 1018,
+      "z": 31
+    }
+  },
+  "src/components/RenderSphere/components/organisms/components/OrderBook.tsx": {
+    "name": "OrderBook.tsx",
+    "path": "src/components/RenderSphere/components/organisms/components/OrderBook.tsx",
+    "type": "logic",
+    "size": 1814,
+    "coords": {
+      "x": 750,
+      "y": -736,
+      "z": 64
+    }
+  },
+  "src/components/RenderSphere/components/organisms/components/Watchlist.tsx": {
+    "name": "Watchlist.tsx",
+    "path": "src/components/RenderSphere/components/organisms/components/Watchlist.tsx",
+    "type": "logic",
+    "size": 2220,
+    "coords": {
+      "x": -1008,
+      "y": 25,
+      "z": -23
+    }
+  },
+  "src/components/RenderSphere/components/organisms/components/ChartPanel.tsx": {
+    "name": "ChartPanel.tsx",
+    "path": "src/components/RenderSphere/components/organisms/components/ChartPanel.tsx",
+    "type": "logic",
+    "size": 1730,
+    "coords": {
+      "x": 726,
+      "y": 746,
+      "z": -34
+    }
+  },
+  "src/components/RenderSphere/components/organisms/components/DecisionStream.tsx": {
+    "name": "DecisionStream.tsx",
+    "path": "src/components/RenderSphere/components/organisms/components/DecisionStream.tsx",
+    "type": "logic",
+    "size": 6262,
+    "coords": {
+      "x": -103,
+      "y": -1063,
+      "z": 6
+    }
+  },
+  "src/components/RenderSphere/engine/Empire3D.js": {
+    "name": "Empire3D.js",
+    "path": "src/components/RenderSphere/engine/Empire3D.js",
+    "type": "logic",
+    "size": 5881,
+    "coords": {
+      "x": -631,
+      "y": 799,
+      "z": 14
+    }
+  },
+  "src/engine/Empire3D.js.bak": {
+    "name": "Empire3D.js.bak",
+    "path": "src/engine/Empire3D.js.bak",
+    "type": "code",
+    "size": 5881,
+    "coords": {
+      "x": 1065,
+      "y": -149,
+      "z": -27
+    }
+  },
+  "src/engine/Empire3D.js": {
+    "name": "Empire3D.js",
+    "path": "src/engine/Empire3D.js",
+    "type": "logic",
+    "size": 7986,
+    "coords": {
+      "x": -895,
+      "y": -541,
+      "z": -17
+    }
+  },
+  "network_commander_import/native_launch.sh": {
+    "name": "native_launch.sh",
+    "path": "network_commander_import/native_launch.sh",
+    "type": "logic",
+    "size": 171,
+    "coords": {
+      "x": 291,
+      "y": 1042,
+      "z": 20
+    }
+  },
+  "network_commander_import/network-commander.desktop": {
+    "name": "network-commander.desktop",
+    "path": "network_commander_import/network-commander.desktop",
+    "type": "code",
+    "size": 278,
+    "coords": {
+      "x": 461,
+      "y": -884,
+      "z": 21
+    }
+  },
+  "network_commander_import/start.sh": {
+    "name": "start.sh",
+    "path": "network_commander_import/start.sh",
+    "type": "logic",
+    "size": 592,
+    "coords": {
+      "x": -943,
+      "y": 380,
+      "z": 32
+    }
+  },
+  "network_commander_import/package.json": {
+    "name": "package.json",
+    "path": "network_commander_import/package.json",
+    "type": "data",
+    "size": 50,
+    "coords": {
+      "x": 1013,
+      "y": 437,
+      "z": -28
+    }
+  },
+  "network_commander_import/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "network_commander_import/package-lock.json",
+    "type": "data",
+    "size": 15764,
+    "coords": {
+      "x": -492,
+      "y": -978,
+      "z": 23
+    }
+  },
+  "network_commander_import/install.sh": {
+    "name": "install.sh",
+    "path": "network_commander_import/install.sh",
+    "type": "logic",
+    "size": 1588,
+    "coords": {
+      "x": -347,
+      "y": 1046,
+      "z": 1
+    }
+  },
+  "network_commander_import/update.sh": {
+    "name": "update.sh",
+    "path": "network_commander_import/update.sh",
+    "type": "logic",
+    "size": 349,
+    "coords": {
+      "x": 885,
+      "y": -555,
+      "z": 29
+    }
+  },
+  "network_commander_import/frontend/.gitignore": {
+    "name": ".gitignore",
+    "path": "network_commander_import/frontend/.gitignore",
+    "type": "code",
+    "size": 253,
+    "coords": {
+      "x": -994,
+      "y": -178,
+      "z": 31
+    }
+  },
+  "network_commander_import/frontend/postcss.config.js": {
+    "name": "postcss.config.js",
+    "path": "network_commander_import/frontend/postcss.config.js",
+    "type": "logic",
+    "size": 92,
+    "coords": {
+      "x": 608,
+      "y": 883,
+      "z": -23
+    }
+  },
+  "network_commander_import/frontend/eslint.config.js": {
+    "name": "eslint.config.js",
+    "path": "network_commander_import/frontend/eslint.config.js",
+    "type": "logic",
+    "size": 758,
+    "coords": {
+      "x": 86,
+      "y": -1054,
+      "z": -17
+    }
+  },
+  "network_commander_import/frontend/README.md": {
+    "name": "README.md",
+    "path": "network_commander_import/frontend/README.md",
+    "type": "data",
+    "size": 1157,
+    "coords": {
+      "x": -781,
+      "y": 646,
+      "z": -3
+    }
+  },
+  "network_commander_import/frontend/tailwind.config.js": {
+    "name": "tailwind.config.js",
+    "path": "network_commander_import/frontend/tailwind.config.js",
+    "type": "logic",
+    "size": 709,
+    "coords": {
+      "x": 1093,
+      "y": 36,
+      "z": -1
+    }
+  },
+  "network_commander_import/frontend/package.json": {
+    "name": "package.json",
+    "path": "network_commander_import/frontend/package.json",
+    "type": "data",
+    "size": 881,
+    "coords": {
+      "x": -747,
+      "y": -724,
+      "z": 0
+    }
+  },
+  "network_commander_import/frontend/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "network_commander_import/frontend/package-lock.json",
+    "type": "data",
+    "size": 133742,
+    "coords": {
+      "x": 44,
+      "y": 1007,
+      "z": -1
+    }
+  },
+  "network_commander_import/frontend/vite.config.js": {
+    "name": "vite.config.js",
+    "path": "network_commander_import/frontend/vite.config.js",
+    "type": "logic",
+    "size": 161,
+    "coords": {
+      "x": 658,
+      "y": -766,
+      "z": 7
+    }
+  },
+  "network_commander_import/frontend/index.html": {
+    "name": "index.html",
+    "path": "network_commander_import/frontend/index.html",
+    "type": "code",
+    "size": 357,
+    "coords": {
+      "x": -1068,
+      "y": 188,
+      "z": -24
+    }
+  },
+  "network_commander_import/frontend/src/main.jsx": {
+    "name": "main.jsx",
+    "path": "network_commander_import/frontend/src/main.jsx",
+    "type": "logic",
+    "size": 229,
+    "coords": {
+      "x": 887,
+      "y": 623,
+      "z": 5
+    }
+  },
+  "network_commander_import/frontend/src/App.jsx": {
+    "name": "App.jsx",
+    "path": "network_commander_import/frontend/src/App.jsx",
+    "type": "logic",
+    "size": 6432,
+    "coords": {
+      "x": -202,
+      "y": -1042,
+      "z": 0
+    }
+  },
+  "network_commander_import/frontend/src/App.css": {
+    "name": "App.css",
+    "path": "network_commander_import/frontend/src/App.css",
+    "type": "code",
+    "size": 606,
+    "coords": {
+      "x": -561,
+      "y": 949,
+      "z": -42
+    }
+  },
+  "network_commander_import/frontend/src/index.css": {
+    "name": "index.css",
+    "path": "network_commander_import/frontend/src/index.css",
+    "type": "code",
+    "size": 425,
+    "coords": {
+      "x": 967,
+      "y": -332,
+      "z": -79
+    }
+  },
+  "network_commander_import/frontend/src/lib/utils.js": {
+    "name": "utils.js",
+    "path": "network_commander_import/frontend/src/lib/utils.js",
+    "type": "logic",
+    "size": 140,
+    "coords": {
+      "x": -915,
+      "y": -477,
+      "z": -86
+    }
+  },
+  "network_commander_import/frontend/src/lib/api.js": {
+    "name": "api.js",
+    "path": "network_commander_import/frontend/src/lib/api.js",
+    "type": "logic",
+    "size": 745,
+    "coords": {
+      "x": 426,
+      "y": 1003,
+      "z": -80
+    }
+  },
+  "network_commander_import/frontend/src/components/FileTransfer.jsx": {
+    "name": "FileTransfer.jsx",
+    "path": "network_commander_import/frontend/src/components/FileTransfer.jsx",
+    "type": "logic",
+    "size": 3113,
+    "coords": {
+      "x": 319,
+      "y": -957,
+      "z": -65
+    }
+  },
+  "network_commander_import/frontend/src/components/Toolbox.jsx": {
+    "name": "Toolbox.jsx",
+    "path": "network_commander_import/frontend/src/components/Toolbox.jsx",
+    "type": "logic",
+    "size": 4022,
+    "coords": {
+      "x": -976,
+      "y": 508,
+      "z": -19
+    }
+  },
+  "network_commander_import/frontend/src/components/ConnectivityHub.jsx": {
+    "name": "ConnectivityHub.jsx",
+    "path": "network_commander_import/frontend/src/components/ConnectivityHub.jsx",
+    "type": "logic",
+    "size": 8427,
+    "coords": {
+      "x": 1029,
+      "y": 312,
+      "z": -26
+    }
+  },
+  "network_commander_import/frontend/src/components/RemoteClient.jsx": {
+    "name": "RemoteClient.jsx",
+    "path": "network_commander_import/frontend/src/components/RemoteClient.jsx",
+    "type": "logic",
+    "size": 6255,
+    "coords": {
+      "x": -580,
+      "y": -860,
+      "z": -60
+    }
+  },
+  "network_commander_import/frontend/src/components/AgentAccess.jsx": {
+    "name": "AgentAccess.jsx",
+    "path": "network_commander_import/frontend/src/components/AgentAccess.jsx",
+    "type": "logic",
+    "size": 3048,
+    "coords": {
+      "x": -174,
+      "y": 1062,
+      "z": -41
+    }
+  },
+  "network_commander_import/frontend/src/components/SecurityDashboard.jsx": {
+    "name": "SecurityDashboard.jsx",
+    "path": "network_commander_import/frontend/src/components/SecurityDashboard.jsx",
+    "type": "logic",
+    "size": 12083,
+    "coords": {
+      "x": 846,
+      "y": -609,
+      "z": -52
+    }
+  },
+  "network_commander_import/frontend/src/components/PortManager.jsx": {
+    "name": "PortManager.jsx",
+    "path": "network_commander_import/frontend/src/components/PortManager.jsx",
+    "type": "logic",
+    "size": 3885,
+    "coords": {
+      "x": -1051,
+      "y": -85,
+      "z": -41
+    }
+  },
+  "network_commander_import/frontend/src/components/ui/Button.jsx": {
+    "name": "Button.jsx",
+    "path": "network_commander_import/frontend/src/components/ui/Button.jsx",
+    "type": "logic",
+    "size": 1514,
+    "coords": {
+      "x": 684,
+      "y": 822,
+      "z": -33
+    }
+  },
+  "network_commander_import/frontend/src/components/ui/Card.jsx": {
+    "name": "Card.jsx",
+    "path": "network_commander_import/frontend/src/components/ui/Card.jsx",
+    "type": "logic",
+    "size": 1016,
+    "coords": {
+      "x": -15,
+      "y": -1089,
+      "z": -98
+    }
+  },
+  "network_commander_import/frontend/src/components/ui/Input.jsx": {
+    "name": "Input.jsx",
+    "path": "network_commander_import/frontend/src/components/ui/Input.jsx",
+    "type": "logic",
+    "size": 749,
+    "coords": {
+      "x": -752,
+      "y": 804,
+      "z": -39
+    }
+  },
+  "network_commander_import/frontend/src/components/ui/Badge.jsx": {
+    "name": "Badge.jsx",
+    "path": "network_commander_import/frontend/src/components/ui/Badge.jsx",
+    "type": "logic",
+    "size": 954,
+    "coords": {
+      "x": 1011,
+      "y": -121,
+      "z": -52
+    }
+  },
+  "network_commander_import/backend/main.py": {
+    "name": "main.py",
+    "path": "network_commander_import/backend/main.py",
+    "type": "logic",
+    "size": 3710,
+    "coords": {
+      "x": -865,
+      "y": -689,
+      "z": -59
+    }
+  },
+  "network_commander_import/backend/requirements.txt": {
+    "name": "requirements.txt",
+    "path": "network_commander_import/backend/requirements.txt",
+    "type": "data",
+    "size": 62,
+    "coords": {
+      "x": 143,
+      "y": 1005,
+      "z": -66
+    }
+  },
+  "network_commander_import/backend/core/remote.py": {
+    "name": "remote.py",
+    "path": "network_commander_import/backend/core/remote.py",
+    "type": "logic",
+    "size": 2685,
+    "coords": {
+      "x": 560,
+      "y": -951,
+      "z": -123
+    }
+  },
+  "network_commander_import/backend/core/networking_advanced.py": {
+    "name": "networking_advanced.py",
+    "path": "network_commander_import/backend/core/networking_advanced.py",
+    "type": "logic",
+    "size": 1857,
+    "coords": {
+      "x": -1025,
+      "y": 324,
+      "z": -117
+    }
+  },
+  "network_commander_import/backend/core/discovery.py": {
+    "name": "discovery.py",
+    "path": "network_commander_import/backend/core/discovery.py",
+    "type": "logic",
+    "size": 2562,
+    "coords": {
+      "x": 976,
+      "y": 435,
+      "z": -55
+    }
+  },
+  "network_commander_import/backend/core/files.py": {
+    "name": "files.py",
+    "path": "network_commander_import/backend/core/files.py",
+    "type": "logic",
+    "size": 1081,
+    "coords": {
+      "x": -378,
+      "y": -979,
+      "z": -81
+    }
+  },
+  "network_commander_import/backend/core/intel.py": {
+    "name": "intel.py",
+    "path": "network_commander_import/backend/core/intel.py",
+    "type": "logic",
+    "size": 1732,
+    "coords": {
+      "x": -379,
+      "y": 973,
+      "z": -108
+    }
+  },
+  "network_commander_import/backend/core/networking.py": {
+    "name": "networking.py",
+    "path": "network_commander_import/backend/core/networking.py",
+    "type": "logic",
+    "size": 3684,
+    "coords": {
+      "x": 928,
+      "y": -427,
+      "z": -101
+    }
+  },
+  "network_commander_import/backend/core/system_info.py": {
+    "name": "system_info.py",
+    "path": "network_commander_import/backend/core/system_info.py",
+    "type": "logic",
+    "size": 1570,
+    "coords": {
+      "x": -1058,
+      "y": -358,
+      "z": -109
+    }
+  },
+  "network_commander_import/backend/core/security.py": {
+    "name": "security.py",
+    "path": "network_commander_import/backend/core/security.py",
+    "type": "logic",
+    "size": 3808,
+    "coords": {
+      "x": 500,
+      "y": 890,
+      "z": -60
+    }
+  },
+  "network_commander_import/backend/api/routes.py": {
+    "name": "routes.py",
+    "path": "network_commander_import/backend/api/routes.py",
+    "type": "logic",
+    "size": 3991,
+    "coords": {
+      "x": 248,
+      "y": -1056,
+      "z": -135
+    }
+  },
+  "network_commander_import/uploads/Well Worded1.pdf": {
+    "name": "Well Worded1.pdf",
+    "path": "network_commander_import/uploads/Well Worded1.pdf",
+    "type": "code",
+    "size": 553201,
+    "coords": {
+      "x": -837,
+      "y": 650,
+      "z": -47
+    }
+  },
+  "src_chaos_new_os/sphere.log": {
+    "name": "sphere.log",
+    "path": "src_chaos_new_os/sphere.log",
+    "type": "code",
+    "size": 0,
+    "coords": {
+      "x": 1090,
+      "y": 147,
+      "z": -58
+    }
+  },
+  "src_chaos_new_os/package.json": {
+    "name": "package.json",
+    "path": "src_chaos_new_os/package.json",
+    "type": "data",
+    "size": 980,
+    "coords": {
+      "x": -659,
+      "y": -834,
+      "z": -74
+    }
+  },
+  "src_chaos_new_os/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "src_chaos_new_os/package-lock.json",
+    "type": "data",
+    "size": 365137,
+    "coords": {
+      "x": -29,
+      "y": 1050,
+      "z": -50
+    }
+  },
+  "src_chaos_new_os/vite.config.js": {
+    "name": "vite.config.js",
+    "path": "src_chaos_new_os/vite.config.js",
+    "type": "logic",
+    "size": 271,
+    "coords": {
+      "x": 794,
+      "y": -789,
+      "z": -92
+    }
+  },
+  "src_chaos_new_os/index.html": {
+    "name": "index.html",
+    "path": "src_chaos_new_os/index.html",
+    "type": "code",
+    "size": 2428,
+    "coords": {
+      "x": -1066,
+      "y": 27,
+      "z": -130
+    }
+  },
+  "src_chaos_new_os/public/theme_loading.mp4": {
+    "name": "theme_loading.mp4",
+    "path": "src_chaos_new_os/public/theme_loading.mp4",
+    "type": "code",
+    "size": 3063099,
+    "coords": {
+      "x": 874,
+      "y": 724,
+      "z": -148
+    }
+  },
+  "src_chaos_new_os/public/shape_dna.json": {
+    "name": "shape_dna.json",
+    "path": "src_chaos_new_os/public/shape_dna.json",
+    "type": "data",
+    "size": 318,
+    "coords": {
+      "x": -162,
+      "y": -1077,
+      "z": -99
+    }
+  },
+  "src_chaos_new_os/src/components/EmpireIDE.jsx": {
+    "name": "EmpireIDE.jsx",
+    "path": "src_chaos_new_os/src/components/EmpireIDE.jsx",
+    "type": "logic",
+    "size": 16870,
+    "coords": {
+      "x": -642,
+      "y": 871,
+      "z": -82
+    }
+  },
+  "grok_3d_terminal/grok-input.js": {
+    "name": "grok-input.js",
+    "path": "grok_3d_terminal/grok-input.js",
+    "type": "logic",
+    "size": 993,
+    "coords": {
+      "x": 1077,
+      "y": -195,
+      "z": -95
+    }
+  },
+  "grok_3d_terminal/grok-3d-terminal.js": {
+    "name": "grok-3d-terminal.js",
+    "path": "grok_3d_terminal/grok-3d-terminal.js",
+    "type": "logic",
+    "size": 8780,
+    "coords": {
+      "x": -947,
+      "y": -482,
+      "z": -111
+    }
+  },
+  "grok_3d_terminal/package.json": {
+    "name": "package.json",
+    "path": "grok_3d_terminal/package.json",
+    "type": "data",
+    "size": 329,
+    "coords": {
+      "x": 379,
+      "y": 984,
+      "z": -88
+    }
+  },
+  "grok_3d_terminal/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "grok_3d_terminal/package-lock.json",
+    "type": "data",
+    "size": 2499,
+    "coords": {
+      "x": 430,
+      "y": -981,
+      "z": -102
+    }
+  },
+  "grok_3d_terminal/ping.js": {
+    "name": "ping.js",
+    "path": "grok_3d_terminal/ping.js",
+    "type": "logic",
+    "size": 671,
+    "coords": {
+      "x": -1002,
+      "y": 398,
+      "z": -156
+    }
+  },
+  "Antigravity_Server/package.json": {
+    "name": "package.json",
+    "path": "Antigravity_Server/package.json",
+    "type": "data",
+    "size": 399,
+    "coords": {
+      "x": 1049,
+      "y": 363,
+      "z": -170
+    }
+  },
+  "Antigravity_Server/package-lock.json": {
+    "name": "package-lock.json",
+    "path": "Antigravity_Server/package-lock.json",
+    "type": "data",
+    "size": 44797,
+    "coords": {
+      "x": -471,
+      "y": -992,
+      "z": -105
+    }
+  },
+  "Antigravity_Server/index.js": {
+    "name": "index.js",
+    "path": "Antigravity_Server/index.js",
+    "type": "logic",
+    "size": 3402,
+    "coords": {
+      "x": -297,
+      "y": 1084,
+      "z": -162
+    }
+  },
+  "Antigravity_Server/Dockerfile": {
+    "name": "Dockerfile",
+    "path": "Antigravity_Server/Dockerfile",
+    "type": "code",
+    "size": 136,
+    "coords": {
+      "x": 937,
+      "y": -607,
+      "z": -115
+    }
+  }
+}

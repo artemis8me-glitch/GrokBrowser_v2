@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EMPIRE OS | GEOMETRY KERNEL</title>
+    <style>
+      body { margin: 0; overflow: hidden; background: #000; font-family: monospace; color: white; }
+      #ui-layer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; }
+      .hud-panel { position: absolute; padding: 20px; pointer-events: auto; }
+      .top-left { top: 0; left: 0; }
+      .bottom-center { bottom: 30px; left: 50%; transform: translateX(-50%); text-align: center; }
+      
+      h1 { margin: 0; font-size: 14px; letter-spacing: 2px; display: flex; align-items: center; gap: 10px; }
+      .status-dot { width: 8px; height: 8px; border-radius: 50%; background-color: #06b6d4; box-shadow: 0 0 10px #06b6d4; transition: all 0.5s; }
+      .btn { background: rgba(0,0,0,0.5); border: 1px solid #333; color: #888; padding: 8px 16px; border-radius: 4px; cursor: pointer; transition: all 0.2s; font-family: monospace; font-size: 10px; }
+      .btn:hover { color: white; border-color: #06b6d4; background: rgba(6,182,212,0.1); }
+    </style>
+  </head>
+  <body>
+    <canvas id="empire-canvas"></canvas>
+    
+    <div id="ui-layer">
+      <div class="hud-panel top-left">
+        <h1>
+          <div id="status-indicator" class="status-dot"></div>
+          <span id="status-text">SYSTEM STANDBY</span>
+        </h1>
+        <p style="font-size: 10px; color: #666; margin-top: 5px;">KERNEL: EMPIRE_ENGINE_V1</p>
+      </div>
+
+      <div class="hud-panel bottom-center">
+        <input type="text" id="cmd-input" placeholder="ENTER COMMAND..." onkeydown="if(event.key==='Enter'){window.Empire.execute(this.value);this.value=''}" style="background: rgba(0,0,0,0.8); border: 1px solid #333; color: #06b6d4; padding: 10px; font-family: monospace; width: 300px; text-align: center; outline: none; margin-bottom: 10px;">
+        <br>
+        <button class="btn" onclick="window.Empire.save()">[ SAVE SYSTEM STATE ]</button>
+      </div>
+
+      <!-- EMPIRE IDE TERMINAL -->
+      <div id="empire-ide-root" style="position: absolute; bottom: 0; right: 0; width: 60%; height: 50%; display: none; z-index: 1000; pointer-events: auto;"></div>
+      <div id="sphere-chat-root" style="position: absolute; inset: 0; pointer-events: none; z-index: 900;"></div>
+    </div>
+
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

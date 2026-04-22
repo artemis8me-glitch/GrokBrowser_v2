@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EMPIRE OS | GEOMETRY KERNEL</title>
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+      background: #000;
+      font-family: monospace;
+      color: white;
+    }
+
+    #ui-layer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+
+    .hud-panel {
+      position: absolute;
+      padding: 20px;
+      pointer-events: auto;
+      background: rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(8px);
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .top-left {
+      top: 20px;
+      left: 20px;
+    }
+
+    .bottom-center {
+      bottom: 30px;
+      left: 50%;
+      transform: translateX(-50%);
+      text-align: center;
+      width: auto;
+      min-width: 400px;
+    }
+
+    .btn {
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      color: #aaa;
+      padding: 10px 20px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      font-family: 'Courier New', monospace;
+      font-size: 11px;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin: 0 5px;
+    }
+
+    .btn:hover {
+      color: #fff;
+      border-color: #06b6d4;
+      background: rgba(6, 182, 212, 0.2);
+      box-shadow: 0 0 15px rgba(6, 182, 212, 0.4);
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+
+<body>
+  <canvas id="empire-canvas"></canvas>
+
+  <div id="ui-layer">
+    <div class="hud-panel top-left">
+      <h1>
+        <div id="status-indicator" class="status-dot"></div>
+        <span id="status-text">SYSTEM STANDBY</span>
+      </h1>
+      <p style="font-size: 10px; color: #666; margin-top: 5px;">KERNEL: EMPIRE_ENGINE_V1</p>
+    </div>
+
+    <div class="hud-panel bottom-center">
+      <input type="text" id="cmd-input" placeholder="ENTER COMMAND..."
+        onkeydown="if(event.key==='Enter'){window.Empire.execute(this.value);this.value=''}"
+        style="background: rgba(0,0,0,0.8); border: 1px solid #333; color: #06b6d4; padding: 10px; font-family: monospace; width: 300px; text-align: center; outline: none; margin-bottom: 10px;">
+      <br>
+      <button class="btn" onclick="window.Empire.save()">[ SAVE SYSTEM STATE ]</button>
+      <button class="btn" onclick="window.Empire.toggleIDE()">[ OPEN TERMINAL ]</button>
+      <button class="btn" onclick="window.Empire.engine.toggleGalaxyView()">[ GALAXY VIEW ]</button>
+    </div>
+
+    <!-- EMPIRE IDE TERMINAL -->
+    <div id="empire-ide-root"
+      style="position: absolute; top: 10%; left: 10%; width: 80%; height: 80%; display: none; z-index: 1000; pointer-events: auto; border: 1px solid #333; background: #000; box-shadow: 0 0 50px rgba(0,0,0,0.8); border-radius: 8px;">
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>

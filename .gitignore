@@ -1,0 +1,19 @@
+node_modules/
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+build/
+.idea/
+.vscode/
+coverage/
+*.log
+*.zip
+dist-electron/
+release/
+
+# Added by Agent to fix large file errors
+venv/
+*.deb

@@ -1,0 +1,13 @@
+[Unit]
+Description=Empire Stable Core - The Exo System Host
+After=network.target
+
+[Service]
+Type=simple
+User=devlopjake
+WorkingDirectory=/home/devlopjake/Projects/Empire_Stable_Core
+ExecStart=/bin/bash /home/devlopjake/Projects/Empire_Stable_Core/ignite_core.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
