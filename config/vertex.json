@@ -1,5 +1,5 @@
 {
-  "vertex_key": "dummy-vertex-key-for-ignition-test",
+  "vertex_key": "",
   "grok_key": "",
   "gemini_key": "",
   "codex_key": ""

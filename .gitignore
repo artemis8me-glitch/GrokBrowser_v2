@@ -8,6 +8,12 @@ dist/
 build/
 .idea/
 .vscode/
+config/vertex.json
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets.json
 coverage/
 *.log
 *.zip
