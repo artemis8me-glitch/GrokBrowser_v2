@@ -92,62 +92,66 @@ async def proxy_grok(req: GrokRequest):  # Made async to allow FastAPI to handle
     """
     Proxies requests using xAI SDK (preferred) or HTTP fallback.
     """
+    import asyncio
     
-    # Method 1: SDK (Preferred for Grok 3)
-    if Client:
-        try:
-            client = Client(api_key=req.apiKey)
-            # Create chat session
-            # Note: SDK might behave differently depending on exact version.
-            # Assuming standard blocking client based on user snippet.
-            chat = client.chat.create(model=req.model, temperature=req.temperature)
-            
-            for msg in req.messages:
-                content = msg.get('content', '')
-                role = msg.get('role', 'user')
+    def _do_proxy():
+        # Method 1: SDK (Preferred for Grok 3)
+        if Client:
+            try:
+                client = Client(api_key=req.apiKey)
+                # Create chat session
+                # Note: SDK might behave differently depending on exact version.
+                # Assuming standard blocking client based on user snippet.
+                chat = client.chat.create(model=req.model, temperature=req.temperature)
                 
-                if role == 'system':
-                    chat.append(system(content))
-                elif role == 'user':
-                    chat.append(user(content))
-                elif role == 'assistant':
-                    chat.append(assistant(content))
+                for msg in req.messages:
+                    content = msg.get('content', '')
+                    role = msg.get('role', 'user')
+
+                    if role == 'system':
+                        chat.append(system(content))
+                    elif role == 'user':
+                        chat.append(user(content))
+                    elif role == 'assistant':
+                        chat.append(assistant(content))
+
+                # Generate response
+                response = chat.sample()
+
+                return {
+                    "choices": [
+                        { "message": { "role": "assistant", "content": response.content } }
+                    ]
+                }
+            except Exception as sdk_error:
+                print(f"⚠️ SDK Error: {sdk_error}. Trying HTTP fallback...")
+                # Fallthrough to HTTP request if SDK fails (e.g. version mismatch)
+
+        # Method 2: HTTP Raw Request (Fallback)
+        url = "https://api.x.ai/v1/chat/completions"
+        headers = {
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {req.apiKey}"
+        }
+        payload = {
+            "messages": req.messages,
+            "model": req.model,
+            "stream": False,
+            "temperature": req.temperature
+        }
+
+        try:
+            response = requests.post(url, json=payload, headers=headers, timeout=30)
+            if response.status_code != 200:
+                 raise HTTPException(status_code=response.status_code, detail=response.text)
+            return response.json()
+        except Exception as e:
+            print(f"❌ GROK PROXY ERROR: {e}")
+            import traceback
+            traceback.print_exc()
+            raise HTTPException(status_code=500, detail=str(e))
             
-            # Generate response
-            response = chat.sample()
-            
-            return {
-                "choices": [
-                    { "message": { "role": "assistant", "content": response.content } }
-                ]
-            }
-        except Exception as sdk_error:
-            print(f"⚠️ SDK Error: {sdk_error}. Trying HTTP fallback...")
-            # Fallthrough to HTTP request if SDK fails (e.g. version mismatch)
-    
-    # Method 2: HTTP Raw Request (Fallback)
-    url = "https://api.x.ai/v1/chat/completions"
-    headers = {
-        "Content-Type": "application/json",
-        "Authorization": f"Bearer {req.apiKey}"
-    }
-    payload = {
-        "messages": req.messages,
-        "model": req.model,
-        "stream": False,
-        "temperature": req.temperature
-    }
-    
-    try:
-        response = requests.post(url, json=payload, headers=headers, timeout=30)
-        if response.status_code != 200:
-             raise HTTPException(status_code=response.status_code, detail=response.text)
-        return response.json()
-    except Exception as e:
-        print(f"❌ GROK PROXY ERROR: {e}")
-        import traceback
-        traceback.print_exc()
-        raise HTTPException(status_code=500, detail=str(e))
+    return await asyncio.to_thread(_do_proxy)
 
 
 @app.get("/api/grok/models")
